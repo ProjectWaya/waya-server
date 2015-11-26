@@ -211,43 +211,123 @@ en:
             * 39€ (Unlimited tour, 45 first minutes are free)
           instructions:
         night:
-          name:
-          description:
+          name: "Night"
+          description: |
+            Available to all. The Noctilien is a bus network operating from 0h30 to 5h30 instead of the normal transportation time. The Metro tickets and the cards (Navigo card and Imagine R card) are valid to use this service. You can also buy a ticket directly in the bus for 2€.
           instructions:
         others:
-          name:
-          description:
-          instructions:
+          name: "Others"
+          description: |
+            - Electric car (autolib)
+          instructions: |
+            - Autolib: only available for asylum seekers and refugees. A subscription is necessary, available for one day to one year. You need to be more than 18 and have a valid driving licence.
+
 
     asylum_process:
       name: "Asylumm Process"
       sub_categories:
         before_asylum_deman:
-          name:
-          description:
-          instructions:
+          name: "Before asylum demand"
+          description: |
+            If you wish to apply for asylum and become an asylum seeker please follow the instructions below. Meanwhile you still have rights:
+            -        Get free medical care
+            -        Have access to a free shelter
+            -        Have access to free food
+          instructions: |
+            You can ask for help to associations (link contact associations) .
+
+            Attention /!\ If the police/prefecture issues a document obliging you to leave French territory (“obligation de quitter le territoire français”, OQTF), you must immediately contact an association  that offers help to foreigners.
+
+            Attention /!\If you are placed in a detention center, you must directly enter in contact with the association present in the detention center. They are here to help you and do not work with the police or prefecture.
+
+            > You want to stay in France and regularize your situation? Apply for asylum (link to asylum) to obtain your refugee status.
+
+            > You don’t want to apply for asylum in France? Enter in contact with associations (link to contact associations)  to obtain a residence permit.
+
         asylum_process:
-          name:
-          description:
-          instructions:
+          name: "Asylum process"
+          description: |
+            >> What is the application for asylum?
+            You have the right to apply for asylum in France to obtain the refugee status.
+            To obtain the refugee status you must be unable to return to your home country because you fear repercussion if you return to you country due to your race, religion, your nationality, your political opinion or the fact that you belong to a particular social group.
+            The goal of the application is to explain what happened in your country and what obliged you to leave it and why you cannot return. You must explain in details (date, place, players) the important things that happened to you and what you felt faced with these issues, your fears.
+
+          instructions: |
+            •        How to apply?
+            1st step: You have to go to an initial reception association , in charge of accompanying you in your procedures. They will help you to fill in the form for the asylum application with your name and your family setting. They will take identity photos and will arrange for a meeting at the one-step service at the prefecture . They will give you a convocation to go to the single counter. You must go to this meeting.
+            WARNING: YOU WILL NOT BE RECIVED AT THE PRFECTURE BEFORE YOU GET A MEETING TROUGH A PRE-ADMISSION ASSOCIATION
+            2nd step: Your meeting at the one-step service will be held with agents of the French office for immigration and integration (“Office français pour l'immigration et l'intégration”, Ofii ) to register your asylum application. They will validate the information, take the imprints of your 10 fingers and you’ll get an individual interview on your journey to France. They will interrogate you on your personal situation (need of shelter).
+            /!\ If your imprints have been taken in another country you will be sent back to said country to apply for asylum there (it’s the “Dublin procedure”).
+                    Your application for asylum will be registered and you will receive an attestation of your demand of asylum valid for 1 month. /!\ Keep this attestation safely.
+                    You will be directed towards a specialized structure that will help you find shelter and apply for asylum.
+            3rd step: You have 21 days to fill in the application for asylum demand in French given by the prefecture. You must send by mail at the French Office of refugee and asylum applicant’s protection (“Office français de protection des réfugiés et des demandeurs d'asile, Ofpra ), by “registered mail with reception proof” (« recommandé avec accusé de réception »):
+            -        This file
+            -        The copy of the valid attestation of your demand for asylum.
+            -        To identity photos
+            -        The travel document eventually in your possession.
+            Address: OFPRA, 201 rue Carnot, 94 136 FONTENAY-SOUS-BOIS CEDEX.
+            /!\ In case of a change in your address or situation contact OPFRA
+            4th step: You will receive a letter from OPFRA informing you of the registration of your demand and you file number.
+            5th step: You must present this letter to the prefecture of your place of residence to obtain the renewal of your attestation of application for asylum that will be valid until OPFRA’s decision. For the renewal, you must bring all the documentation asked by the prefecture, including the document certifying the address where you are living.
+            /!\ Be sure to keep you attestation safely and have a copy on you at all times.
+            Your asylum application will be examined by OPFRA in maximum 9 months (exception for accelerated procedures: 15 days).
+            6th step: You will be summoned to a meeting at OPFRA. During that meeting, an OPFRA agent called “protection officer” will ask you to talk about your origins, to tell what happened in your country that lead to you departure and why you cannot go back, to determine if you fill in the criteria that define a refugee. The interview will take place with an interpreter from OPFRA if necessary. The interview is individual but it’s possible to be accompanied by an authorized third party.
+            WARNING: You have to go to this meeting.
+            The answer from OPFRA can take several months. This extended silence doesn’t mean that your demand was rejected. If OPFRA cannot make a decision within 6 months you will be informed by mail.
+            >> If OPFRA gives a positive answer you will obtain the refugee status with a residence permit of 10 years of a subsidiary protection.
+            >> If you asylum application is rejected, you will be able to contest this decision in front of the national court of asylum right (“Cour National du Droit d'Asile”, CNDA ) within 1 month. For that, ask for the help of your social worker. You can ask to be accompanied by a lawyer for free. You’ll have to file a new application and tell your story. If you haven’t filed an appeal within 30 days, it’s not possible to do it anymore. You lose the asylum seeker allowance (l’Allocation pour Demandeur d'Asile, ADA)  and you are in irregular situation. Otherwise you can ask for a residence permit. The prefecture will address you with an obligation to leave the french territory (OQTF). You can contest it through the administrative tribunal, 1 month after reception at the latest. You are allowed a lawyer (jurisdictional help.
+
         refugee_rights:
-          name:
-          description:
-          instructions:
+          name: "Refugee rights"
+          description: |
+            As a refugee, you have access to a 10 year residence card, renewable, authorizing you to circulate freely on the French territory. Your family (children, spouse) can access a 10 year resident card.
+            As a beneficiary of subsidiary protection, you have the right to a temporary residency permit of1 year, renewable afterward for 2 year periods, allowing you to circulate freely on the French territory. Your family (children, spouse) can benefit from a 1 year residency permit.
+          instructions: |
+            As soon as you receive the mail acknowledging you the quality of refugee, you must address to your home prefecture. Within 8 days, the prefecture will give you a first receipt of 6 months renewable with the mention “acknowledged refugee” (« reconnu réfugié »). This receipt gives you the right to exercise the job of your choice. It will be renewed until your receive your resident card.
+            WARNING: You cannot address to the authorities of your home country or go back to this country. OPFRA will give you civil-status documents and administrative documents.
+            If you have a 10 year resident card, you can make your family join you with the “family reunification procedure”.
+            By signing the welcome and integration contract (contrat d’accueil et d’intégration, CAI) you will benefit from a civic training, practical information on everyday life, language training and a social and professional support.
+            You can access housing, work, health and allocations. The employment  and housing  questions are handled by the OFII. You can ask for the French nationality.
 
     education:
       name: "Education"
       sub_categories:
         education_rights:
-          name:
-          description:
-          instructions:
+          name: "Education rights"
+          description: |
+            If you are already a tertiary education degree holder and wish to continue studying at a French university or other French tertiary education institute, you may ask for a prior study proof exemption from the university/other institute of tertiary education at which you would like to study for a French degree. If granted, this exemption will enable you to validate part or all of your prior study.
+          instructions: |
+            You must present the foreign diploma(s) that you hold, their translations as well as a description of the course contents. The president of the university or other tertiary education institute will make a decision based on these documents following consultation of an educational committee.
         school_for_child:
-          name:
-          description:
-          instructions:
+          name: "School for child"
+          description: |
+            School is compulsory for children aged 6 and beyond. The organisation that helps you settle in France can also help you registering your children to a school.
+          instructions: |
+            To register your children to kindergarten (from age 3), you must go to the school office of the local townhall ('mairie d'arrondissement'). The townhall you must go to is the one of the 'arrondissement' (district) where your  place of residence is located.
+            To register your child to primary school (from age 6), you must go to your closest townhall ('mairie d'arrondissement'). You must bring the following documents with you:
+            - a birth certificate for your child or a legal document stating that you are the child's father or mother,
+            - a proof of address in France
+            - a document with information on your child's vaccines.
+            To register your child to secondary school (from age 11), you must go directly to the closest school to your place of residence. The school will then provide you with information on the documents that are needed.
+            MAP Local townhalls in Paris:  http://meslieux.paris.fr/mairies-d-arrondissement
+
+        diplomas:
+          name: "Diplomas"
+          description: |
+            If you passed diploma in other countries than France, you could have an equivalence in France.
+          instructions: |
+            In order to gain recognition for your foreign degree in France, you have to send your request for recognition of foreign diplomas in France to the ENIC-NARIC Centre:
+            CIEP
+            ENIC-NARIC France
+            1 Avenue Léon Journault
+            92318 Sèvres Cedex – France
+
+            A proof of your level of schooling can be obtained.
+            /!\ The  ENIC-NARIC Centre France does not meet individual applicants in person. It can be contacted via phone: 33-1 45 07 63 21 or 33-1 45 07 63 10 and via email: enic-naric@ciep.fr
+
+
         language_learning:
-          name:
+          name: "Language Learning"
           description:
           instructions:
 
@@ -458,23 +538,91 @@ en:
       name: "Contacts"
       sub_categories:
         singa:
-          name:
+          name: "Singa"
           description:
           instructions:
         ambassadors:
-          name:
+          name: "Amassadors"
           description:
           instructions:
         associations:
-          name:
-          description:
-          instructions:
+          name: "Associations"
+          description: |
+            You can contact associations to help you. Don't be afraid, they don't work with the police, you won't be arested.
+          instructions: |
+            -        Singa
+            Singa is an association which supports the integration of refugees in France. The WAYA project reports to Singa.
+            Website : http://singa.fr/
+            -        France terre d’asile
+            France terre d’asile is an association assits asylum seekers during their juridical and administrative processes (asylum demand, shelter, healthcare, allowances).
+            Website : http://www.france-terre-asile.org/
+            -        La Cimade
+            La Cimade is an association which supports foreigners, even in irregular situation, and asylum seekers during their juridical and administrative processes (asylum demand).
+            Website : http://www.lacimade.org/
+            Voir tableau « Waya content structure » : plusieurs lieu en Ile de France > renvoi vers la Map
+            -        Groupe d’Information et de Soutien des Immigrés (GISTI)
+            GISTI is an association which supports foreigners, even in irregular situation, and asylum seekers during their juridical process (asylum demand).
+            Website : http://www.gisti.org
+            -        Amnesty International
+
+            Amnesty International is an association which helps you to defend your rights.
+
+            Website : http://www.amnesty.fr/
+
+            -        Croix rouge française
+
+            Organisation who provides social support for migrants and vulnerable persons.
+
+            Website : http://www.croix-rouge.fr
+
+            -        Fédération des associations de soutien aux travailleurs immigrés (FASTI)
+
+            Le FASTI is an association which helps foreigners, either in regular and irregular situation.
+
+            Website : http://www.fasti.org
+
+
+            -        Ligue des droits de l’homme (LDH)
+
+            La LDH is an association which helps foreigners during their juridical and administrative processes and to defend their rights.
+
+            Website : http://www.ldh-france.org
+
+            -        COALLIA
+            Coallia is an association for help and social support for shelter and social promotion for vulnerable people.
+            Website : http://www.coallia.org/
+            -        ADOMA
+            Adoma proposes social shelter adapted to people, alone or with family, who are in economical and integration difficulties and can’t find an accommodation.
+            Website : http://www.adoma.fr/adoma/Accueil/p-3-Accueil.htm
+            -        Aurore
+            The association Aurore helps for the social and professional integration of persons in situation of exclusion or precariousness. It provides shelters, healthcare and support for integration.
+            Website : http://aurore.asso.fr/
+
         emergency:
-          name:
-          description:
-          instructions:
+          name: "Emergency"
+          description: |
+            If you are in a situation of emergency, you can contact different persons.
+          instructions: |
+            SAMU (Urgent Medical Care Service) Contact the SAMU to obtain medical care for a life threatening emergency. You will be asked information, you can answer without risk. Do not hang up the phone without being asked to.  CALLED 15.
+            Police.  Contact the police to report an aggression or violence and to obtain immediate help. CALLED 17.
+            18 : Fire Services. Contact the fire service whenever people are in danger or in case of accident to obtain immediate intervention of the firefighters. CALLED 18.
+            Emergency number for deaf and hard of hearing. This number is reachable by SMS and by fax. CALLED 114.
         institutions:
-          name:
-          description:
-          instructions:
+          name: "Institutions"
+          description: |
+            During your asylum process, you will be in contact with different institutions.
+          instructions: |
+            -  Office français de l’immigration et de l’intégration (Ofii)
+            This is the state organism in charge of foreigners in France. Agents of the Ofii will be present at the one-step service at the prefecture to register your asylum demand and during all the processes (allowances, shelters).
+            Website : http://www.ofii.fr/
+            - One-step service in prefecture
+            The one-step service in prefecture is the place where you need to make your asylum demand. It is composed by agents of the prefecture and of the Ofii, gathering for your welcoming.
+            Seeing map with the different one-step service (“guichet unique”)
+            - L’Office français de protection des réfugiés et apatrides (Ofpra)
+            The Ofpra is the organism responsible for the exam of your asylum demand and which will decide to recognized you or not the refugee status.
+            Website : http://www.ofpra.gouv.fr/
+            - La Cour nationale du droit d’asile (CNDA)
+            If the Ofpra don’t recognised you the refugee status, you can contest this decision. You will make an appeal in front of the CNDA. You will pass a new interview in front of 3 judges who will ask you questions about your story.
+            Website : http://www.cnda.fr/
+
 
