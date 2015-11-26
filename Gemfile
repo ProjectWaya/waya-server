@@ -15,9 +15,9 @@ end
 group :development do
   gem 'web-console', '~> 2.0'
   gem 'spring'
-  gem 'lingohub',  github: 'matthiasleitner/lingohub_ruby'
 end
 
+gem 'lingohub',  github: 'matthiasleitner/lingohub_ruby'
 gem 'bootstrap-sass'
 gem 'high_voltage'
 gem 'pg'
