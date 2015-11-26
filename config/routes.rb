@@ -7,6 +7,7 @@ Rails.application.routes.draw do
         resources :points_of_interest, only: [:index]
         resources :countries, only: [:index]
         resources :tags, only: [:index]
+        resources :user_statuses, only: [:index]
       end
     end
   end
