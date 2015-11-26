@@ -6,4 +6,9 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 #
+
+UserStatus.create(id: 0, key: 'refugee')
+UserStatus.create(id: 1, key: 'asylum_seeker')
+UserStatus.create(id: 2, key: 'just_arrived')
+
 Tag.create(id: 0, key: 'main_categories')
