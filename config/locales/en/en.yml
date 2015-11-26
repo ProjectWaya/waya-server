@@ -336,17 +336,17 @@ en:
       sub_categories:
         free_meals:
           name: "Food"
-          description: "There are several places that offer free meals." 
+          description: "There are several places that offer free meals."
           instructions: |
-              The charity ‘Les Restos du Coeur’ offers food assistance in distribution centres or trucks. The distribution centres are also welcoming centres, where you can keep warm while meeting and talking to other people. Warm meals are served at a table, generally at lunch time, all year round. The distribution trucks (‘Camions du Coeur’) give out a soup, a hot dish and a coffee in the street. No specific proof or document is required. 
+              The charity ‘Les Restos du Coeur’ offers food assistance in distribution centres or trucks. The distribution centres are also welcoming centres, where you can keep warm while meeting and talking to other people. Warm meals are served at a table, generally at lunch time, all year round. The distribution trucks (‘Camions du Coeur’) give out a soup, a hot dish and a coffee in the street. No specific proof or document is required.
               Some restaurants also offer meals inside or to take away for the most destitute people.
-               /!\ Some restaurants only accept people who meet specific criteria. 
+               /!\ Some restaurants only accept people who meet specific criteria.
 
                Also, the association « les Restos du Cœur » delivers food packages. A package enables to prepare a complet meal every day. To receive this food help, you need to subscribe to the association and justify a lack of resources.
         cheap_meals:
           name: "Cheap Meals"
           description: |
-              You can find in some places, cheap meals for people in a precarious situation. 
+              You can find in some places, cheap meals for people in a precarious situation.
 
               You can also go to social groceries which sell alimentary and hygienic items at low cost.
               /!\ Access conditions are different depending on the structure.
@@ -361,13 +361,13 @@ en:
         ame:
           name: "AME"
           description: |
-              The State Medical Assistance (AME) allows a foreign national in an irregular situation to have access to health care free of charge. To request it, a file must be established (form and supporting documents). The AME is awarded for a year. Renewal of the AME must be requested every year. 
+              The State Medical Assistance (AME) allows a foreign national in an irregular situation to have access to health care free of charge. To request it, a file must be established (form and supporting documents). The AME is awarded for a year. Renewal of the AME must be requested every year.
 
               Some specific treatments has to be paid for even though you have been awarded the AME, except for minors for whom every care treatment are free of charge.
           instructions: |
-              Conditions of access to AME : If you are homeless, you can request an address to permanent social assistance office (Permanence sociale d’accueil ). However, this does not apply to your underage child. You are supposed to receive financial resources under a certain limit. The financial resources taken in account are those from the last 12 months. 
+              Conditions of access to AME : If you are homeless, you can request an address to permanent social assistance office (Permanence sociale d’accueil ). However, this does not apply to your underage child. You are supposed to receive financial resources under a certain limit. The financial resources taken in account are those from the last 12 months.
                   * You must print and fill in the form CERFA n°11573*05 available on line or at the local healthcare insurance office (Caisse primaire d;assurance maladie, CPAM). The form includes a note indicating which document to provide in relation to your specific situation.
-                  * The file must be send or tabled to your local healthcare insurance office (cpam). 
+                  * The file must be send or tabled to your local healthcare insurance office (cpam).
                   * Your local healthcare insurance office informs you of his decision not later than 2 months after You have submitted your request,. If you have not received any response sfter this delay, it means that your request has been refused. If your requested is accepted, you will be convened to pick up your AME admission card. This card must be presented to health professionals.
         cmu:
           name: "CMU"
@@ -383,10 +383,10 @@ en:
         ada:
           name: "ADA"
           description: |
-              The asylum seeker allowance (Allocation pour Demandeur d’Asile, ADA) is a sum of money that you will received during the examination of your asylum demand. 
+              The asylum seeker allowance (Allocation pour Demandeur d’Asile, ADA) is a sum of money that you will received during the examination of your asylum demand.
               /!\ You must have accepted the care package which will be offered to you by the l’Office Français de l’Immigration et l’Intégration (Ofii).
-              
-          instructions:
+
+          instructions: |
               The demand is done in the time of the recording of your asylum demand at one-step service of the prefecture. Your allowance will be deposit in a delay of 21 days after the recording of your asylum demand at the Ofpra.
               The amount of the ADA depends on your familial situation, your resources and your accommodation (around 340 euros / month for a single person). /!\You won’t received the ADA if you actually perceived more than 524,16 € by month.
 
@@ -400,41 +400,41 @@ en:
               As an asylum seeker, you can only access to job market if your asylum process last more than 9 months and regarding some conditions.
               As refugee, you can access to the job market without special conditions.
           instructions:
-              I. If you are an asylum-seeker 
-              As an asylum-seeker, you may be allowed to work if OFPRA  has not provided you with an answer on your asylum application within 9 months following the registration of your application. 
-              You must first present a work permit application formulated by your future employer. You must also ask for an employment permit from the prefecture depending on your place of residence. 
+              I. If you are an asylum-seeker
+              As an asylum-seeker, you may be allowed to work if OFPRA  has not provided you with an answer on your asylum application within 9 months following the registration of your application.
+              You must first present a work permit application formulated by your future employer. You must also ask for an employment permit from the prefecture depending on your place of residence.
               The prefecture is in charge of accepting or refusing your work permit. The prefecture will inform you of this decision.
-              In case of an approval, the préfet will send the work permits to OFII.  
+              In case of an approval, the préfet will send the work permits to OFII.
 
-              /!\ It is more likely that you will get a work permit if you apply for a job that is listed among professions for which there are established recruitment difficulties. 
+              /!\ It is more likely that you will get a work permit if you apply for a job that is listed among professions for which there are established recruitment difficulties.
 
-              If you are a temporary work permit holder, you can ask to be registered as a job-seeker with Pôle emploi once your work contract is over. 
+              If you are a temporary work permit holder, you can ask to be registered as a job-seeker with Pôle emploi once your work contract is over.
 
-              II. Access to the job market for refugees 
+              II. Access to the job market for refugees
 
-              If your refugee status has been acknowledged, you can work from the moment you receive the first confirmation (‘récepissé’) indicating « Reconnu réfugié ». 
-              If you are a subsidiary protection beneficiary, you can also work from the moment you receive the first confirmation (‘récepissé’) indicating « A demandé la délivrance d’un premier titre de séjour ». 
+              If your refugee status has been acknowledged, you can work from the moment you receive the first confirmation (‘récepissé’) indicating « Reconnu réfugié ».
+              If you are a subsidiary protection beneficiary, you can also work from the moment you receive the first confirmation (‘récepissé’) indicating « A demandé la délivrance d’un premier titre de séjour ».
 
-              You can claim a work contract. You can also register on the job-seekers list and receive personnalised help in finding a job. 
+              You can claim a work contract. You can also register on the job-seekers list and receive personnalised help in finding a job.
               Some professions are regulated and are subjected to diploma and/or nationality requirements.
         civil_status:
           name: "Civil Status"
-          description: "If you are a refugee, you must adress to the Ofpra for questions about civil status certificates." 
+          description: "If you are a refugee, you must adress to the Ofpra for questions about civil status certificates."
           instructions: |
               As you can’t contact authorities of your country of origin, this is France, through the Ofpra, which is responsible for managing all events about your civil life and to take in charge questions  about your status.
               The Ofpra reconstitutes :
                   * Birth certificate,
                   * Marriage certificate,
                   * Death certicate.
-              For more information : https://www.ofpra.gouv.fr/fr/protection-etat-civil/qu-est-ce-que-la-protection 
+              For more information : https://www.ofpra.gouv.fr/fr/protection-etat-civil/qu-est-ce-que-la-protection
               To make your demand, you must go on the website of the Ofpra at this address: https://www.ofpra.gouv.fr/fr/protection-etat-civil/qu-est-ce-que-la-protection
         other_documents:
           name: "Driving Licence"
           description: |
               DRIVING LICENCE (https://www.service-public.fr/particuliers/vosdroits/F1460)
 
-              If you just arrived in France and you have non european driving licence, you must exchange it with a french driving licence to be allow to drive. 
-              /!\You must do your demand of exchange in a delay of 1 year. 
+              If you just arrived in France and you have non european driving licence, you must exchange it with a french driving licence to be allow to drive.
+              /!\You must do your demand of exchange in a delay of 1 year.
 
               There is some conditions depending on your nationality.
           instructions:
@@ -447,13 +447,13 @@ en:
         travel_documents:
           name: "Travel documents"
           description: |
-              If you are a refugee and you want to travel out of France, you can obtain a travel document from the prefecture (whose you depend from). 
+              If you are a refugee and you want to travel out of France, you can obtain a travel document from the prefecture (whose you depend from).
               If you are a refugee, you will receive a travel document valid 2 years.
               If you have the subsidiary protection, you will receive an ID document and a travel document valid 1 year.
           instructions: |
               You have to do your demand at the prefecture you depending from.
-              /!\ You can find the form for the travel document demand on the web site of the prefecture. Download and fil lit. You also must provide some documents. 
-              /!\ The release of the travel document is paying. You must buy a tax stamp of 20 euros. 
+              /!\ You can find the form for the travel document demand on the web site of the prefecture. Download and fil lit. You also must provide some documents.
+              /!\ The release of the travel document is paying. You must buy a tax stamp of 20 euros.
 
               WARNING: These travel documents don’t allow you to go to your country of origin. If you do, you will lose your status. In exceptional circumstances (death for example), you could ask the prefecture to obtain a safe-conduct for 3 month to go back to your country of origin.
               /!\ Before you leave, you must be sure that your travel document is valid for the all length of your travel.
@@ -469,7 +469,7 @@ en:
               (Revenu de solidarité active = RSA), family allowance, housing allowance, single‐parent allowance,caring for pre‐school child(ren) allowance, or again a disabled adult’s allowance.
               Information on the rights to these social services can be obtained at the local family allowance offices
               (CAF), based in one hundred sites throughout French territory.
-              To benefit from social services, you must go to the local family allowance office (CAF) or to a social action centre in your local area and fill in an income declaration (for the last two years). You will also find the corresponding form on the internet (www.caf.fr). 
+              To benefit from social services, you must go to the local family allowance office (CAF) or to a social action centre in your local area and fill in an income declaration (for the last two years). You will also find the corresponding form on the internet (www.caf.fr).
               Moreover, you must have a bank account.
           MAP: CAF
 
@@ -492,14 +492,14 @@ en:
           description: |
               You can connect to high-speed wifi, for free, with the free wifi service of the City of Paris. 260 sites across the city (parcs, gardens, city halls, libraries, museums) have free wifi hotspots.
           instructions: |
-              You can recognise a free wifi zone thanks to the “Paris Wi-Fi” logo. 
-              How to proceed: 
-                  Select the PARIS_WI-FI (often following by a number). 
+              You can recognise a free wifi zone thanks to the “Paris Wi-Fi” logo.
+              How to proceed:
+                  Select the PARIS_WI-FI (often following by a number).
                   Open you internet browser and enter any website address. You will be automatically redirected to the access portal. One on the home page of the service, you should fill the form and accept the User conditions by clicking the box. Then click on “ME CONNECTER” (‘Connect’ in English).
-                  You may now use the internet. 
-                  /!\ Each session lasts up to 2 hours. You can renew your connection without condition by repeating this same process. 
+                  You may now use the internet.
+                  /!\ Each session lasts up to 2 hours. You can renew your connection without condition by repeating this same process.
                   /!\ Wifi connexion is only available when the municipal sites with hotspots are open. The only exception are open air sites like the Champ de Mars, the centre d’accueil Kellerman (Kellerman welcome center) and the parvis de l’Hotel de Ville (City Hall square) are accessible 24/7.
-              You can also use specific applications for smartphones and tablets to locate the nearest hotspot: 
+              You can also use specific applications for smartphones and tablets to locate the nearest hotspot:
               For Android: “Wifi à Paris” app by Thomas Legat
               For Windows Phone: “Paris OpenWifi” app by Thierry Verdier
               For Iphone and Ipad: “Data Mapp Hotspot Wifi de Paris” app
@@ -524,7 +524,7 @@ en:
           instructions:
         sports:
           name: "Sports"
-          description: "" 
+          description: ""
           instructions: ""
         money_change:
           name: "Money Change"
