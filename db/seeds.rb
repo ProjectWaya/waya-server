@@ -12,3 +12,19 @@ UserStatus.create(id: 1, key: 'asylum_seeker')
 UserStatus.create(id: 2, key: 'just_arrived')
 
 Tag.create(id: 0, key: 'main_categories')
+
+["fr", "de", "at"].each do |country_code|
+  Country.create(key: country_code)
+end
+{
+  "fr" => ["Paris", "Montreuil"],
+  "de" => ["Berlin", "Hamburg"],
+  "at" => ["Wien", "Linz"]
+}.each do |country, cities|
+  country = Country.where(key: country).first
+  cities.each do |city|
+    City.create(key: city, country: country)
+  end
+end
+
+
