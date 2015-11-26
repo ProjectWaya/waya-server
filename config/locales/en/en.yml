@@ -1,2 +1,66 @@
 en:
-  hello: Hello world
+  categories:
+    shelter:
+      name: "Shelter"
+      sub_categories:
+        emergency_shelters:
+          name: "Emergency Shelters"
+          description: "Emergency Accommodation Centres welcomes any homeless person and offers accommodation for a night, a meal, washing facilities, and access to a doctor and a social worker to help them with their integration procedure."
+          instructions: |
+            Contact the Samu Social by dialing 115. It is a toll-free number: you can also call it from a public phone without a card, 24/7.
+            Caution: Every emergency accommodation request is not systematically met. This phone number is often busy. If so, do not hesitate to call again.
+            A list of all available places is updated every day. If need be, you should call 115 or the Emergency Accommodation Centre you know every morning.
+            Caution: Each accommodation centre has its own internal rules. Be aware that they often have hours to respect.
+            HEALTHCARE: When you arrive at a CHU, the welcoming staff can direct you to a medical and specialised team who can deliver a diagnostic.
+
+        cada:
+          name: "CADA"
+          description: "Reception centers for Asylum Seekers (“Centres d’Accueil de Demandeurs d’Asile » CADA) are public-funded structures which can welcome you and your family (partner and underage children) during the examination process of your asylum demand. Besides providing you with an individual or collective housing solution, you will get help to cover your daily needs and benefit from administrative, social and medical assistance."
+          instructions: |
+            To benefit from an accomodation in a reception center, you need to have applied for asylum in France and be able to prove it (asylum application attestation or receipt). The French Office for Immigration and Intergration (Office Français de l’Immigration et l’Intégration (OFII )) located where you filed your demand should offer an accomodation within 3 days, depending on availability.
+            WARNING : The number of places in these centers are limited. If there is no accommodation left in your region, you might be directed to any CADA in France.
+            Be careful, if you reject this proposal, you will not receive another one and won’t be able to benefit from the asylum seeker allowance.
+            When you will have the answer for your asylum demand (accepted or refused by the Ofpra or the CNDA), you must leave the CADA within the agreed period of 6 months.
+        cph:
+          name: "CPH"
+          description: "These centers are for statutory refugees (without money or accommodation)."
+          instructions: |
+            You can ask the OFII (French Office for Immigration and Integration) for a bed in a temporary accommodation centre (CPH). If you meet the admission criteria, and a space is available, you can be accommodated there for 9 months (which can be renewed by 3 months).
+            Social workers are available there to:
+            - help you in your administrative and social procedures
+            - support you in your professional project
+            - offer you a social and health follow-up
+            - help you to search for a long-term housing solution
+            Please note: as a refugee, you can have direct access to private housing, or social housing, if you request it from relevant institutions or organisations.
+        hotel_hostels:
+          name: "Hotels & Hostels"
+          description: "When you cannot find a spot in an accommodation centre, the Samu Social (115 number) can sometimes direct you to a hotel for free. The hotel will allow you to stay for one or several nights. However, spaces are limited. "
+          instructions:
+        calm:
+          name: "CALM"
+          description: "Comme à la Maison (CALM) is a match-making system between statutory refugees looking for housing and private individuals offering one. You and your close ones can be provided with housing from 2 weeks to several months, shared or not with your host. "
+          instructions: "The SINGA association will connect you with private individuals whose offer meets your needs. You can apply by filling a form. (link to form or CALM App) [to be completed with the new process] "
+    healtcare:
+      name: "Healtcare"
+      sub_categories:
+    transportation:
+      name: "Transportation"
+      sub_categories:
+    asylum_process:
+      name: "Asylumm Process"
+      sub_categories:
+    education:
+      name: "Education"
+      sub_categories:
+    food:
+      name: "Food"
+      sub_categories:
+    administrative_process:
+      name: "Administrative Process"
+      sub_categories:
+    entertainement:
+      name: "Entertainement"
+      sub_categories:
+    contacts:
+      name: "Contacts"
+      sub_categories:
