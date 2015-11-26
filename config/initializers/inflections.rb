@@ -14,3 +14,8 @@
 # ActiveSupport::Inflector.inflections(:en) do |inflect|
 #   inflect.acronym 'RESTful'
 # end
+
+ActiveSupport::Inflector.inflections do |inflect|
+  inflect.irregular 'PointOfInterest', 'PointsOfInterest'
+  inflect.irregular 'point_of_interest', 'points_of_interest'
+end
