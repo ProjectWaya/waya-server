@@ -1,0 +1,12 @@
+en:
+  user_status:
+    refugee:
+      name: "Refugee"
+      description: "Lorem Ipsum"
+    asylum_seeker:
+      name: "Asylum Seeker"
+      description: "Lorem Ipsum"
+    just_arrived:
+      name: "just arrived"
+      description: "Lorem Ipsum"
+
