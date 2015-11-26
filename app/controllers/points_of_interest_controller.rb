@@ -54,7 +54,7 @@ class PointsOfInterestController < ApplicationController
   # DELETE /points_of_interest/1
   # DELETE /points_of_interest/1.json
   def destroy
-    @point_of_interest.destroy
+    @point_of_interest.destroy!
     respond_to do |format|
       format.html { redirect_to points_of_interest_url, notice: 'Point of interest was successfully destroyed.' }
       format.json { head :no_content }
