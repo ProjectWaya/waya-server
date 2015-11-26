@@ -12,7 +12,6 @@ en:
             A list of all available places is updated every day. If need be, you should call 115 or the Emergency Accommodation Centre you know every morning.
             Caution: Each accommodation centre has its own internal rules. Be aware that they often have hours to respect.
             HEALTHCARE: When you arrive at a CHU, the welcoming staff can direct you to a medical and specialised team who can deliver a diagnostic.
-
         cada:
           name: "CADA"
           description: "Reception centers for Asylum Seekers (“Centres d’Accueil de Demandeurs d’Asile » CADA) are public-funded structures which can welcome you and your family (partner and underage children) during the examination process of your asylum demand. Besides providing you with an individual or collective housing solution, you will get help to cover your daily needs and benefit from administrative, social and medical assistance."
@@ -40,27 +39,324 @@ en:
           name: "CALM"
           description: "Comme à la Maison (CALM) is a match-making system between statutory refugees looking for housing and private individuals offering one. You and your close ones can be provided with housing from 2 weeks to several months, shared or not with your host. "
           instructions: "The SINGA association will connect you with private individuals whose offer meets your needs. You can apply by filling a form. (link to form or CALM App) [to be completed with the new process] "
-    healtcare:
-      name: "Healtcare"
+    healthcare:
+      name: "Healthcare"
       sub_categories:
+        cmu:
+          name: "Healthcare"
+          description: |
+            Free The universal health care cover (Couverture maladie universelle, CMU) covers your medical and hospital costs and those of your spouse and children. It’s free. As asylum seekers, you are entitled to basic and complementary universal health cover from the moment of the registration of your asylum request, on presentation of the asylum application attestation (“attestation de demande d’asile”) that you have received from the one-stop service (“guichet unique”), and a document certifying the address where you are living.
+          instructions: |
+            To be eligible for the CMU, you must apply for it at your local healthcare insurance office (Caisse Primaire d'Assurance Maladie). You can be assisted in this procedure by the organisation in which you are housed, the organisation in charge of supporting you while your asylum application is being examined, by certain associations, by a community centre or an inter‐communal welfare action centre, or by a hospital social services unit. Your rights to the basic universal health cover take their effects without delay and permanently. Your rights to complementary universal health cover are only valid for a year. You must request the renewal of your rights to the complementary CMU. The CPAM may request complementary documents in order to provide you with a definitive number and an electronic health card called « Carte Vitale ».
+        ame:
+          name: "AME"
+          description: |
+            The State Medical Assistance (AME) allows a foreign national in an irregular situation to have access to health care free of charge. To request it, a file must be established (form and supporting documents). The AME is awarded for a year. Renewal of the AME must be requested every year. Some specific treatments has to be paid for even though you have been awarded the AME, except for minors for whom every care treatment are free of charge.
+          instructions: |
+            Attention Conditions of access to AME : If you are homeless, you can request an address to permanent social assistance office (Permanence sociale d’accueil ). However, this does not apply to your underage child. You are supposed to receive financial resources under a certain limit. The financial resources taken in account are those from the last 12 months. - Print You must print and fill in the form CERFA n°11573*05 available on line or at the local healthcare insurance office (Caisse primaire d;assurance maladie, CPAM). The form includes a note indicating which document to provide in relation to your specific situation. - Send The file must be send or tabled to your local healthcare insurance office (cpam). - Happy & Unhappy Your local healthcare insurance office informs you of his decision not later than 2 months after You have submitted your request,. If you have not received any response sfter this delay, it means that your request has been refused. If your requested is accepted, you will be convened to pick up your AME admission card. This card must be presented to health professionals.
+        pass:
+          name: "PASS"
+          description: |
+            The PASS is a place, present in certain hospitals, for information and for free of charge healthcare, open for all.
+            You will be taken care of by doctors and drugs would be delivered to you free of charge. The PASS can request the help of interpreters if you do not speak French. The PASS allows you to obtain general or specific medical consultations.
+          instructions: |
+            When you arrive, a doctor will examine you and will direct you towards a social worker who will help for your administrative actions, or towards a doctor specialist if needed. You can have access to healthcare, further medical exams and drugs if you need to start a treatment soon.
+            Remark : There are different kind of PASS in Paris according to you care needs: generalists, dentists, dermatologists, ophthalmologists and psychiatrists.
+        hospitals:
+          name: "Hospital"
+          description: |
+            Free Access to health emergency services is free and open to all in the emergency services of every hospital of the city. Attention /!\ You should not be afraid of going to the hospital and to respond to their questions. Doctors do not work in relation with police and do not communicate the information you give them.
+          instructions: |
+            >> Go to the hospital When arriving at the emergency services, go to the reception: to create your medical record, information will be requested, but you are not compelled to provide for your identification card. Step graphics 1. A nurse (charged with orientation and welcoming) assesses your health status with you. The seriousness of your health status is determined, from most urgent – immediate patient care – to less urgent. 2. Once with the doctor, he/she provides for adequate care and may request further exams, such as an X-ray or blood tests. TO make those tests and to obtain the results may be takes time. They may request you to wait in a waiting room if your condition is not serious. During this waiting time, if the pain increases or if your condition changes, do not hesitate to inform nurses or the reception. 3. After the treatment: If your condition allows it, you will leave the hospital, by your own means, with your medical record. OR the doctor can request you to stay under observation at the hospital in the emergency service, to watch your health condition. OR you may be hospitalized, with you consent, in a service of the hospital, or eventually transferred in another institution. >> Call the emergency medical care Free, Phone If you or someone needs urgent care but cannot move, you have to call the emergency numbers. Emergency numbers may be called for free every day and at every hour of the night. List of the FREE emergency numbers: 15: SAMU (Urgent Medical Care Service) Contact the SAMU to obtain medical care for a life threatening emergency. You will be asked information, you can answer without risk. Do not hang up the phone without being asked to. 17: Police. Contact the police to report an aggression or violence and to obtain immediate help. 18 : Fire Services. Contact the fire service whenever people are in danger or in case of accident to obtain immediate intervention of the firefighters. 114 : Emergency number for deaf and hard of hearing. This number is reachable by SMS and by fax.
+        doctors:
+          name: "Doctors"
+          description:
+          instructions:
+        associations:
+          name: "Associations"
+          description: |
+            Healthcare and advice clinics (caso) from Médecins du Monde - Médecins du Monde an independent association which brings together voluntary healthcare professionals, to provide for humanitarian help to people in need. - In those Healthcare and advice clinics (caso), you are welcomed, treated for free, accompanied and guided to access to other healthcare institutions. Medical comity for exiled (COMEDE) The COMEDE is specialised for healthcare to exiled. You can call their helpline to obtain assistance on access to healthcare or to obtain medical advices
+          instructions: |
+            - Phone permanence concerning: Rights, Support, Healthcare:
+            01 45 21 63 12 (from monday to thursday 9h30-12h30)
+            Support and expertise for accessing the healthcare, procedures to obtain a sickness protection, the operation systems for the right of residence because of medical reasons and other benefits concerning to the health status of foreigners.
+            - Phone permanence concerning: Medical situation:
+            01 45 21 38 93 (mondays, tuesdays and wednesdays from 14h30 to 17h30)
+            Support and expertise concerning medical care, prevention, health check, medical certification for asylum seekers or right of residence
+            - Phone permanence concerning: Mental Health:
+            01 45 21 39 31 (tuesdays and wednesdays from14h30 to 17h30)
+            Support and expertise for orientation and access to healthcare of the mental health. Information and sharing of experiences on the questions relatives to the Clinique de l’Exil.
+            For all questions concerning the right of residence because of medical reasons, the access of healthcare and social performances relatives to the health of foreigners living in the region Île de France, you can go to the Permanence de l’Espace Santé Droit animated from the Comede et la Cimade.
+            01 43 52 69 55 (tuesdays from 9H30-12H30, and the wednesdays and fridays from 9H30-12H30 and from14h30 to 17h30)
+        specialists:
+          name: "Specialists (includes gynecology)"
+          description: |
+            You can have access to medical specialists.
+          instructions: |
+            1) Gynecology, obstétrics
+            With the system PASS you can have access to specialists in gynecology and obstretic in hôpital Hôtel-Dieu and Hôpital Cochin - Port-Royal – Tarnier.
+
+            2) Dental treatment
+            With the system PASS you can have access to dental treatments in hospitals Henri-Mondor (Créteil 94) ; Louis-Mourier (Colombes – 92) ; Pitié-Salpêtrière (Paris 13e).
+            3) Dermatology
+            With the system PASS you can have access to a dermatologist in Saint-Louis hospital.
+            4) Psychiatry
+            • Système PASS
+            With the system PASS you can have access to psychiatric help in Henri-Mondor hospital (Créteil 94)
+            • Psychosocial centers
+
+            - Parcours d'exil
+            Parcours d’exil is a care center for victims of torture. It provides free medical and pshycologic care.
+            - Centre Primo Levi Paris
+            Le Primo Levi Center helps victims of torture and refugees in France.
+            - Centre du psychotrauma de l’Institut de victimologie de Paris.
+
+            This center provides early and specific treatments to victims of traumatic events.
+            - COMEDE
+            helpline mental health: 01 45 21 39 31 (Tuesdays and Wednesdays, from 14h30 to 17h30)
+            Support and expertise for guiding and mental healthcare. Information and sharing of experiences on issues relating to exile clinic.
+
+            5) Soins pour enfants de moins de 6 ans
+            You can find healthcare (vaccination) for children between 0 and 6 years old in maternal and infantile protection service (Services de protection maternelle et infantile (PIM)).
+            http://meslieux.paris.fr/centres-de-pmi
+            Opening : Monday to Friday, 8h30-12h30 and 13h30-17h30. It is advised to take an appointment by phonecall.
+
+
+
     transportation:
       name: "Transportation"
       sub_categories:
+        prices:
+          name: "Prices"
+          description: |
+            - Ticket t+:
+            * 1,80€: for passengers travelling occasionally (RER, Metro, Bus, Tram)
+            * 14,10€: booklet from 10 tickets t+
+            * 7,05€: booklet from 10 tickets t+ & reduce price for children (4 to 10 years)
+
+            - Mobilis (one day):
+            * 7€: for passengers wanting to travel as much as they want in chosen zones for one day
+
+            - Passe Navigo:
+            * Navigo month: 70€ for all the zones
+            * Navigo week: 21,25€ for all the zones
+
+            - Carte Imagine R:
+            * Student:
+            >> Cash payment: 341,90€
+            >> Monthly payment: 37,10 €
+            * School:
+            >> Without scholarship: 341,90€
+            >> With scholarship:
+            Price 5: 230,60€
+            Price 7: 119,30€
+
+            - Velib:
+            * Ticket 1 day: price 1,70 €
+            * Ticket 7 days: price 8,00 €
+            * Vélib' Classique 29 € (unllimited, first 30 min for free)
+            * Vélib' Passion 39 € (unllimited, first 30 min for free)
+
+          instructions: |
+            Price discount: The pricing Solidarité Transport allows you to buy tickets at a reduce price (ticket t+ in booklet and single tickets) and bundles (forfaits). The discount Solidarité Transport are reserved for people with an insurance and for people who benefit from: The Couverture Maladie Universelle Complémentaire (CMUC). or the Aide Médicale d'État (AME). And only for people who benefit from: the Allocation Spécifique de Solidarité (ASS) without receiving the Couverture Maladie Universelle Complémentaire (CMUC). For free: The bundle (forfait) Gratuité Transport allows you to travel for free during 3 months in all 6 zones. Reserved for people living in the region Île de France who benefit from: - the Revenu de Solidarité Active (RSA) and people under specific income conditions: for more informations, please call the Solidarité Transport Île-de-France agency at the following number: 0 800 948 999. - or from the Allocation Spécifique de Solidarité (ASS) and who benefit as well from the Couverture Maladie Universelle Complémentaire (CMUC).
+        transport_cards:
+          name: "Transport Cards"
+          description: |
+            - NAVIGO Card
+            - IMAGINE’R Card
+            - Gratuité Transport Card
+            - « Améthyste et Emeraude » Card
+          instructions: |
+            Different types of monthly or yearly subscriptions: only available for asylum seekers and refugees.
+
+            - NAVIGO card: this card is reserved for people living and/or working in the region Île de France. You can choose between a monthly or a yearly fee and you can travel in an unlimited way in all the region Île de France (with Metro, RER, Bus, Noctilien and Tramway).
+            You can buy it in a commercial agency called RATP (or in some Metro stations).
+
+            How to get the Navigo card? You can get the Navigo card directly in a commercial agency or within 3 weeks under www.navigo.fr, through filling a register form in the train stations or stations of the RATP and SNCF Transilien or in contacting the Navigo agency. The Navigo card is free for people living and/or working in the region Île de France. She can recharge the Navigo Month or Navigo Week, the bundles Solidarité Transport (Month or Week) and the bundle Gratuité Transport. She can be recharged through automaton or through the counters OPTILE, RATP, SNCF Transilien (Metro stations and Tramway, train stations and certified businesses). She is immediately replaced in the agencies, in case of loss or theft, by providing a franchise of 8 euros.
+
+            - IMAGINE’R card: this card is reserved for children going to school (pupils, collégiens, lycéens or students under 26 years old). This card is valid one year and you can travel in an unlimited way in the all region Île de France (with Metro, RER, Bus, Noctilien and Tramway).
+
+            You can buy it in a commercial agency RATP and at some Metro counters.
+
+            - Carte Gratuité Transport: this card is reserved for people who benefits from the Revenu de Solidarité Active (R.S.A) and for the rest of the family (more informations at the Solidarité Transport agency Île-de-France under the number 0 800 948 999), or from the Allocation Spécifique de Solidarité (ASS) and who benefits from the Couverture Maladie Universelle Complémentaire (CMUC). The bundle Gratuité Transport allows you to travel for free during 3 months in an unlimited way in all the Île de France region (with Métro, RER, Bus, Noctilien and Tramway).
+
+
+            -Carte « Améthyste et Emeraude »: reserved for elderly people and handicaped people living in Paris. This card allows unlimited transportation during one year in all the region Île de France (with Métro, RER, Bus, Noctilien and Tramway).
+
+        railway:
+          name: "Metro/RER/Tramway"
+          description: |
+            METRO: Available for all. One ticket costs 1€80 and 14€10 for 10 tickets, for all transportation in Paris, available at all the Metro stations. Children get half price, from 4 to 10 years old and tickets are for free under 4 years old.
+
+            RER: Available for all. In order to travel outside of Paris, it is necessary to take the RER, with a different ticket that can cost up to 5€05. The price vary according to the departure & arrival zone. However, with the Navigo card, you can travel freely in every zones.
+
+            TRAMWAY: Available for all. It is the same system as for the Metro for travelling outside of Paris, a different ticket is necessary for a maximum price of 3€55 (full price)
+
+          instructions:
+
+
+        bus:
+          name: "Bus"
+          description: "Available for all."
+          instructions:
+
+        bike:
+          name: "Bike"
+          description: |
+            A daily ticket is available for everyone owning a credit card. For the subscriptions, you need to have an identity card valid on the french territory. Available 24/7.
+            Price of the ticket:
+            * 1,70€ (Unlimited tour during 24h, the first 30 minutes are for free)
+            Price of the subscriptions:
+            * 19€ (Unlimited tour, 30 first minutes are free)
+            * 39€ (Unlimited tour, 45 first minutes are free)
+          instructions:
+        night:
+          name:
+          description:
+          instructions:
+        others:
+          name:
+          description:
+          instructions:
+
     asylum_process:
       name: "Asylumm Process"
       sub_categories:
+        before_asylum_deman:
+          name:
+          description:
+          instructions:
+        asylum_process:
+          name:
+          description:
+          instructions:
+        refugee_rights:
+          name:
+          description:
+          instructions:
+
     education:
       name: "Education"
       sub_categories:
+        education_rights:
+          name:
+          description:
+          instructions:
+        school_for_child:
+          name:
+          description:
+          instructions:
+        language_learning:
+          name:
+          description:
+          instructions:
+
     food:
       name: "Food"
       sub_categories:
+        free_meals:
+          name:
+          description:
+          instructions:
+        cheap_meals:
+          name:
+          description:
+          instructions:
+        meals_of_the_world:
+          name:
+          description:
+          instructions:
     administrative_process:
       name: "Administrative Process"
       sub_categories:
+        ame:
+          name:
+          description:
+          instructions:
+        cmu:
+          name:
+          description:
+          instructions:
+        ada:
+          name:
+          description:
+          instructions:
+        job:
+          name:
+          description:
+          instructions:
+        civil_status:
+          name:
+          description:
+          instructions:
+        other_documents:
+          name:
+          description:
+          instructions:
+        travel_documents:
+          name:
+          description:
+          instructions:
+        welfare_and_family_benefits:
+          name:
+          description:
+          instructions:
+        rsa:
+          name:
+          description:
+          instructions:
     entertainement:
       name: "Entertainement"
       sub_categories:
+        internet:
+          name:
+          description:
+          instructions:
+        restaurants:
+          name:
+          description:
+          instructions:
+        party:
+          name:
+          description:
+          instructions:
+        cultural_life:
+          name:
+          description:
+          instructions:
+        sports:
+          name:
+          description:
+          instructions:
+        money_change:
+          name:
+          description:
+          instructions:
+        associations:
+          name:
+          description:
+          instructions:
     contacts:
       name: "Contacts"
       sub_categories:
+        singa:
+          name:
+          description:
+          instructions:
+        ambassadors:
+          name:
+          description:
+          instructions:
+        associations:
+          name:
+          description:
+          instructions:
+        emergency:
+          name:
+          description:
+          instructions:
+        institutions:
+          name:
+          description:
+          instructions:
+
