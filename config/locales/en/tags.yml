@@ -1,9 +1,8 @@
 en:
-  tag: 
+  tag:
     shelter:
       name: "Shelter"
-      description: ""
-	
+      description:
     emergency_shelters:
       name: "Emergency Shelters"
       description: "Emergency Accommodation Centres welcomes any homeless person and offers accommodation for a night, a meal, washing facilities, and access to a doctor and a social worker to help them with their integration procedure."
@@ -128,101 +127,101 @@ en:
     transportation:
       name: "Transportation"
 
-        prices:
-          name: "Prices"
-          description: |
-            - Ticket t+:
-            * 1,80€: for passengers travelling occasionally (RER, Metro, Bus, Tram)
-            * 14,10€: booklet from 10 tickets t+
-            * 7,05€: booklet from 10 tickets t+ & reduce price for children (4 to 10 years)
+    prices:
+      name: "Prices"
+      description: |
+        - Ticket t+:
+        * 1,80€: for passengers travelling occasionally (RER, Metro, Bus, Tram)
+        * 14,10€: booklet from 10 tickets t+
+        * 7,05€: booklet from 10 tickets t+ & reduce price for children (4 to 10 years)
 
-            - Mobilis (one day):
-            * 7€: for passengers wanting to travel as much as they want in chosen zones for one day
+        - Mobilis (one day):
+        * 7€: for passengers wanting to travel as much as they want in chosen zones for one day
 
-            - Passe Navigo:
-            * Navigo month: 70€ for all the zones
-            * Navigo week: 21,25€ for all the zones
+        - Passe Navigo:
+        * Navigo month: 70€ for all the zones
+        * Navigo week: 21,25€ for all the zones
 
-            - Carte Imagine R:
-            * Student:
-            >> Cash payment: 341,90€
-            >> Monthly payment: 37,10 €
-            * School:
-            >> Without scholarship: 341,90€
-            >> With scholarship:
-            Price 5: 230,60€
-            Price 7: 119,30€
+        - Carte Imagine R:
+        * Student:
+        >> Cash payment: 341,90€
+        >> Monthly payment: 37,10 €
+        * School:
+        >> Without scholarship: 341,90€
+        >> With scholarship:
+        Price 5: 230,60€
+        Price 7: 119,30€
 
-            - Velib:
-            * Ticket 1 day: price 1,70 €
-            * Ticket 7 days: price 8,00 €
-            * Vélib' Classique 29 € (unllimited, first 30 min for free)
-            * Vélib' Passion 39 € (unllimited, first 30 min for free)
+        - Velib:
+        * Ticket 1 day: price 1,70 €
+        * Ticket 7 days: price 8,00 €
+        * Vélib' Classique 29 € (unllimited, first 30 min for free)
+        * Vélib' Passion 39 € (unllimited, first 30 min for free)
 
-          instructions: |
-            Price discount: The pricing Solidarité Transport allows you to buy tickets at a reduce price (ticket t+ in booklet and single tickets) and bundles (forfaits). The discount Solidarité Transport are reserved for people with an insurance and for people who benefit from: The Couverture Maladie Universelle Complémentaire (CMUC). or the Aide Médicale d'État (AME). And only for people who benefit from: the Allocation Spécifique de Solidarité (ASS) without receiving the Couverture Maladie Universelle Complémentaire (CMUC). For free: The bundle (forfait) Gratuité Transport allows you to travel for free during 3 months in all 6 zones. Reserved for people living in the region Île de France who benefit from: - the Revenu de Solidarité Active (RSA) and people under specific income conditions: for more informations, please call the Solidarité Transport Île-de-France agency at the following number: 0 800 948 999. - or from the Allocation Spécifique de Solidarité (ASS) and who benefit as well from the Couverture Maladie Universelle Complémentaire (CMUC).
-        transport_cards:
-          name: "Transport Cards"
-          description: |
-            - NAVIGO Card
-            - IMAGINE’R Card
-            - Gratuité Transport Card
-            - « Améthyste et Emeraude » Card
-          instructions: |
-            Different types of monthly or yearly subscriptions: only available for asylum seekers and refugees.
+      instructions: |
+        Price discount: The pricing Solidarité Transport allows you to buy tickets at a reduce price (ticket t+ in booklet and single tickets) and bundles (forfaits). The discount Solidarité Transport are reserved for people with an insurance and for people who benefit from: The Couverture Maladie Universelle Complémentaire (CMUC). or the Aide Médicale d'État (AME). And only for people who benefit from: the Allocation Spécifique de Solidarité (ASS) without receiving the Couverture Maladie Universelle Complémentaire (CMUC). For free: The bundle (forfait) Gratuité Transport allows you to travel for free during 3 months in all 6 zones. Reserved for people living in the region Île de France who benefit from: - the Revenu de Solidarité Active (RSA) and people under specific income conditions: for more informations, please call the Solidarité Transport Île-de-France agency at the following number: 0 800 948 999. - or from the Allocation Spécifique de Solidarité (ASS) and who benefit as well from the Couverture Maladie Universelle Complémentaire (CMUC).
+    transport_cards:
+      name: "Transport Cards"
+      description: |
+        - NAVIGO Card
+        - IMAGINE’R Card
+        - Gratuité Transport Card
+        - « Améthyste et Emeraude » Card
+      instructions: |
+        Different types of monthly or yearly subscriptions: only available for asylum seekers and refugees.
 
-            - NAVIGO card: this card is reserved for people living and/or working in the region Île de France. You can choose between a monthly or a yearly fee and you can travel in an unlimited way in all the region Île de France (with Metro, RER, Bus, Noctilien and Tramway).
-            You can buy it in a commercial agency called RATP (or in some Metro stations).
+        - NAVIGO card: this card is reserved for people living and/or working in the region Île de France. You can choose between a monthly or a yearly fee and you can travel in an unlimited way in all the region Île de France (with Metro, RER, Bus, Noctilien and Tramway).
+        You can buy it in a commercial agency called RATP (or in some Metro stations).
 
-            How to get the Navigo card? You can get the Navigo card directly in a commercial agency or within 3 weeks under www.navigo.fr, through filling a register form in the train stations or stations of the RATP and SNCF Transilien or in contacting the Navigo agency. The Navigo card is free for people living and/or working in the region Île de France. She can recharge the Navigo Month or Navigo Week, the bundles Solidarité Transport (Month or Week) and the bundle Gratuité Transport. She can be recharged through automaton or through the counters OPTILE, RATP, SNCF Transilien (Metro stations and Tramway, train stations and certified businesses). She is immediately replaced in the agencies, in case of loss or theft, by providing a franchise of 8 euros.
+        How to get the Navigo card? You can get the Navigo card directly in a commercial agency or within 3 weeks under www.navigo.fr, through filling a register form in the train stations or stations of the RATP and SNCF Transilien or in contacting the Navigo agency. The Navigo card is free for people living and/or working in the region Île de France. She can recharge the Navigo Month or Navigo Week, the bundles Solidarité Transport (Month or Week) and the bundle Gratuité Transport. She can be recharged through automaton or through the counters OPTILE, RATP, SNCF Transilien (Metro stations and Tramway, train stations and certified businesses). She is immediately replaced in the agencies, in case of loss or theft, by providing a franchise of 8 euros.
 
-            - IMAGINE’R card: this card is reserved for children going to school (pupils, collégiens, lycéens or students under 26 years old). This card is valid one year and you can travel in an unlimited way in the all region Île de France (with Metro, RER, Bus, Noctilien and Tramway).
+        - IMAGINE’R card: this card is reserved for children going to school (pupils, collégiens, lycéens or students under 26 years old). This card is valid one year and you can travel in an unlimited way in the all region Île de France (with Metro, RER, Bus, Noctilien and Tramway).
 
-            You can buy it in a commercial agency RATP and at some Metro counters.
+        You can buy it in a commercial agency RATP and at some Metro counters.
 
-            - Carte Gratuité Transport: this card is reserved for people who benefits from the Revenu de Solidarité Active (R.S.A) and for the rest of the family (more informations at the Solidarité Transport agency Île-de-France under the number 0 800 948 999), or from the Allocation Spécifique de Solidarité (ASS) and who benefits from the Couverture Maladie Universelle Complémentaire (CMUC). The bundle Gratuité Transport allows you to travel for free during 3 months in an unlimited way in all the Île de France region (with Métro, RER, Bus, Noctilien and Tramway).
-
-
-            -Carte « Améthyste et Emeraude »: reserved for elderly people and handicaped people living in Paris. This card allows unlimited transportation during one year in all the region Île de France (with Métro, RER, Bus, Noctilien and Tramway).
-
-        railway:
-          name: "Metro/RER/Tramway"
-          description: |
-            METRO: Available for all. One ticket costs 1€80 and 14€10 for 10 tickets, for all transportation in Paris, available at all the Metro stations. Children get half price, from 4 to 10 years old and tickets are for free under 4 years old.
-
-            RER: Available for all. In order to travel outside of Paris, it is necessary to take the RER, with a different ticket that can cost up to 5€05. The price vary according to the departure & arrival zone. However, with the Navigo card, you can travel freely in every zones.
-
-            TRAMWAY: Available for all. It is the same system as for the Metro for travelling outside of Paris, a different ticket is necessary for a maximum price of 3€55 (full price)
-
-          instructions:
+        - Carte Gratuité Transport: this card is reserved for people who benefits from the Revenu de Solidarité Active (R.S.A) and for the rest of the family (more informations at the Solidarité Transport agency Île-de-France under the number 0 800 948 999), or from the Allocation Spécifique de Solidarité (ASS) and who benefits from the Couverture Maladie Universelle Complémentaire (CMUC). The bundle Gratuité Transport allows you to travel for free during 3 months in an unlimited way in all the Île de France region (with Métro, RER, Bus, Noctilien and Tramway).
 
 
-        bus:
-          name: "Bus"
-          description: "Available for all."
-          instructions:
+        -Carte « Améthyste et Emeraude »: reserved for elderly people and handicaped people living in Paris. This card allows unlimited transportation during one year in all the region Île de France (with Métro, RER, Bus, Noctilien and Tramway).
 
-        bike:
-          name: "Bike"
-          description: |
-            A daily ticket is available for everyone owning a credit card. For the subscriptions, you need to have an identity card valid on the french territory. Available 24/7.
-            Price of the ticket:
-            * 1,70€ (Unlimited tour during 24h, the first 30 minutes are for free)
-            Price of the subscriptions:
-            * 19€ (Unlimited tour, 30 first minutes are free)
-            * 39€ (Unlimited tour, 45 first minutes are free)
-          instructions:
-        night:
-          name: "Night"
-          description: |
-            Available to all. The Noctilien is a bus network operating from 0h30 to 5h30 instead of the normal transportation time. The Metro tickets and the cards (Navigo card and Imagine R card) are valid to use this service. You can also buy a ticket directly in the bus for 2€.
-          instructions:
-        others:
-          name: "Others"
-          description: |
-            - Electric car (autolib)
-          instructions: |
-            - Autolib: only available for asylum seekers and refugees. A subscription is necessary, available for one day to one year. You need to be more than 18 and have a valid driving licence.
+    railway:
+      name: "Metro/RER/Tramway"
+      description: |
+        METRO: Available for all. One ticket costs 1€80 and 14€10 for 10 tickets, for all transportation in Paris, available at all the Metro stations. Children get half price, from 4 to 10 years old and tickets are for free under 4 years old.
+
+        RER: Available for all. In order to travel outside of Paris, it is necessary to take the RER, with a different ticket that can cost up to 5€05. The price vary according to the departure & arrival zone. However, with the Navigo card, you can travel freely in every zones.
+
+        TRAMWAY: Available for all. It is the same system as for the Metro for travelling outside of Paris, a different ticket is necessary for a maximum price of 3€55 (full price)
+
+      instructions:
+
+
+    bus:
+      name: "Bus"
+      description: "Available for all."
+      instructions:
+
+    bike:
+      name: "Bike"
+      description: |
+        A daily ticket is available for everyone owning a credit card. For the subscriptions, you need to have an identity card valid on the french territory. Available 24/7.
+        Price of the ticket:
+        * 1,70€ (Unlimited tour during 24h, the first 30 minutes are for free)
+        Price of the subscriptions:
+        * 19€ (Unlimited tour, 30 first minutes are free)
+        * 39€ (Unlimited tour, 45 first minutes are free)
+      instructions:
+    night:
+      name: "Night"
+      description: |
+        Available to all. The Noctilien is a bus network operating from 0h30 to 5h30 instead of the normal transportation time. The Metro tickets and the cards (Navigo card and Imagine R card) are valid to use this service. You can also buy a ticket directly in the bus for 2€.
+      instructions:
+    others:
+      name: "Others"
+      description: |
+        - Electric car (autolib)
+      instructions: |
+        - Autolib: only available for asylum seekers and refugees. A subscription is necessary, available for one day to one year. You need to be more than 18 and have a valid driving licence.
 
 
     asylum_process:

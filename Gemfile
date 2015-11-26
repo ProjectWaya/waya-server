@@ -20,7 +20,7 @@ end
 gem 'lingohub',  github: 'matthiasleitner/lingohub_ruby'
 gem 'bootstrap-sass'
 gem 'high_voltage'
-gem 'pg'
+#gem 'pg'
 gem 'puma'
 gem 'therubyracer', :platform=>:ruby
 group :development do
