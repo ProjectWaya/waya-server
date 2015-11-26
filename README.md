@@ -31,6 +31,12 @@ Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.
 Getting Started
 ---------------
 
+- setup a Postgres role named `waya` with password `waya`
+
+```
+createuser -d -P waya
+```
+
 Documentation and Support
 -------------------------
 

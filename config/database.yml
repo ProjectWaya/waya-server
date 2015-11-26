@@ -19,7 +19,7 @@ development:
   database: waya_development
   pool:     5
   username: waya
-  password:
+  password: waya
   template: template0
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -47,7 +47,7 @@ test:
   database: waya_test
   pool:     5
   username: waya
-  password:
+  password: waya
   template: template0
 
 production:
