@@ -1,0 +1,8 @@
+en:
+  point_of_interest:
+    poi_key_1:
+      name: "some poi name"
+      description: "some poi description"
+    poi_key_2:
+      name: "some poi name"
+      description: "some poi description"
