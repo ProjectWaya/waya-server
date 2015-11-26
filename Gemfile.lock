@@ -1,3 +1,12 @@
+GIT
+  remote: git://github.com/matthiasleitner/lingohub_ruby.git
+  revision: 95cccf62836e132cb65e84039dcdabdc430d6751
+  specs:
+    lingohub (0.4.1)
+      launchy (~> 2.4.2)
+      rest-client (~> 1.6.7)
+      stringex (~> 1.4.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -185,6 +194,8 @@ GEM
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
     ref (2.0.0)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
     rspec (3.4.0)
       rspec-core (~> 3.4.0)
       rspec-expectations (~> 3.4.0)
@@ -230,6 +241,7 @@ GEM
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       sprockets (>= 2.8, < 4.0)
+    stringex (1.4.0)
     therubyracer (0.12.2)
       libv8 (~> 3.16.14.0)
       ref
@@ -269,6 +281,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   launchy
+  lingohub!
   pg
   puma
   quiet_assets

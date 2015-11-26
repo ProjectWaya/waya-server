@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151126122934) do
+ActiveRecord::Schema.define(version: 20151126125934) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -21,9 +21,11 @@ ActiveRecord::Schema.define(version: 20151126122934) do
     t.string   "country_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string   "zipcode"
   end
 
   add_index "cities", ["country_id"], name: "index_cities_on_country_id", using: :btree
+  add_index "cities", ["key"], name: "index_cities_on_key", unique: true, using: :btree
 
   create_table "countries", force: :cascade do |t|
     t.string   "key"
@@ -31,12 +33,13 @@ ActiveRecord::Schema.define(version: 20151126122934) do
     t.datetime "updated_at", null: false
   end
 
+  add_index "countries", ["key"], name: "index_countries_on_key", unique: true, using: :btree
+
   create_table "points_of_interest", force: :cascade do |t|
     t.string   "key"
     t.float    "latitude"
     t.float    "longitude"
     t.string   "address"
-    t.string   "zip"
     t.json     "contact"
     t.json     "opening_hours"
     t.datetime "created_at",    null: false
