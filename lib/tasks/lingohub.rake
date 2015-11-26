@@ -1,9 +1,9 @@
 require 'rubygems'
-require 'lingohub'
-require 'lingohub/command'
-require 'lingohub/commands/auth'
 
 namespace :lingohub  do
+  require 'lingohub'
+  require 'lingohub/command'
+  require 'lingohub/commands/auth'
   LINGOHUB_PROJECT_NAME = 'waya-content'
 
   desc "List all projects of lingohub account"
