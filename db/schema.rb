@@ -11,10 +11,25 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151126112110) do
+ActiveRecord::Schema.define(version: 20151126122934) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "cities", force: :cascade do |t|
+    t.string   "key"
+    t.string   "country_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  add_index "cities", ["country_id"], name: "index_cities_on_country_id", using: :btree
+
+  create_table "countries", force: :cascade do |t|
+    t.string   "key"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
 
   create_table "points_of_interest", force: :cascade do |t|
     t.string   "key"
@@ -22,16 +37,14 @@ ActiveRecord::Schema.define(version: 20151126112110) do
     t.float    "longitude"
     t.string   "address"
     t.string   "zip"
-    t.string   "city"
-    t.string   "country"
     t.json     "contact"
     t.json     "opening_hours"
     t.datetime "created_at",    null: false
     t.datetime "updated_at",    null: false
+    t.integer  "city_id"
   end
 
-  add_index "points_of_interest", ["city"], name: "index_points_of_interest_on_city", using: :btree
-  add_index "points_of_interest", ["country"], name: "index_points_of_interest_on_country", using: :btree
+  add_index "points_of_interest", ["city_id"], name: "index_points_of_interest_on_city_id", using: :btree
   add_index "points_of_interest", ["key"], name: "index_points_of_interest_on_key", unique: true, using: :btree
 
   create_table "points_of_interest_tags", id: false, force: :cascade do |t|
@@ -47,8 +60,19 @@ ActiveRecord::Schema.define(version: 20151126112110) do
     t.integer  "sortno"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer  "parent_id"
   end
 
   add_index "tags", ["key"], name: "index_tags_on_key", unique: true, using: :btree
 
+  create_table "user_statuses", force: :cascade do |t|
+    t.string   "key"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  add_index "user_statuses", ["key"], name: "index_user_statuses_on_key", unique: true, using: :btree
+
+  add_foreign_key "points_of_interest", "cities"
+  add_foreign_key "tags", "tags", column: "parent_id"
 end
