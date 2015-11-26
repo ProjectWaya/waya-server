@@ -3,6 +3,14 @@ class PointOfInterest < ActiveRecord::Base
   belongs_to :city
   has_one :country, through: :city
 
+  def name
+    " I am a POI"
+  end
+
+  def description
+    " I am a POI"
+  end
+
   def phones
     Array(contact['phones'])
   end
