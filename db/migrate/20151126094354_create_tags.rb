@@ -1,11 +1,11 @@
 class CreateTags < ActiveRecord::Migration
   def change
     create_table :tags do |t|
-      t.string :name
       t.string :key
-      t.text :description
+      t.integer :sortno
 
       t.timestamps null: false
     end
+    add_index :tags, :key, unique: true
   end
 end

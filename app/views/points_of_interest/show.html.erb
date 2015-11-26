@@ -1,0 +1,49 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Key:</strong>
+  <%= @point_of_interest.key %>
+</p>
+
+<p>
+  <strong>Latitude:</strong>
+  <%= @point_of_interest.latitude %>
+</p>
+
+<p>
+  <strong>Longitude:</strong>
+  <%= @point_of_interest.longitude %>
+</p>
+
+<p>
+  <strong>City:</strong>
+  <%= @point_of_interest.city %>
+</p>
+
+<p>
+  <strong>Country:</strong>
+  <%= @point_of_interest.country %>
+</p>
+
+<p>
+  <strong>Zip:</strong>
+  <%= @point_of_interest.zip %>
+</p>
+
+<p>
+  <strong>Address:</strong>
+  <%= @point_of_interest.address %>
+</p>
+
+<p>
+  <strong>Contact:</strong>
+  <%= @point_of_interest.contact %>
+</p>
+
+<p>
+  <strong>Opening hours:</strong>
+  <%= @point_of_interest.opening_hours %>
+</p>
+
+<%= link_to 'Edit', edit_point_of_interest_path(@point_of_interest) %> |
+<%= link_to 'Back', points_of_interest_path %>

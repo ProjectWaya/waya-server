@@ -11,9 +11,44 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 0) do
+ActiveRecord::Schema.define(version: 20151126112110) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "points_of_interest", force: :cascade do |t|
+    t.string   "key"
+    t.float    "latitude"
+    t.float    "longitude"
+    t.string   "address"
+    t.string   "zip"
+    t.string   "city"
+    t.string   "country"
+    t.json     "contact"
+    t.json     "opening_hours"
+    t.datetime "created_at",    null: false
+    t.datetime "updated_at",    null: false
+  end
+
+  add_index "points_of_interest", ["city"], name: "index_points_of_interest_on_city", using: :btree
+  add_index "points_of_interest", ["country"], name: "index_points_of_interest_on_country", using: :btree
+  add_index "points_of_interest", ["key"], name: "index_points_of_interest_on_key", unique: true, using: :btree
+
+  create_table "points_of_interest_tags", id: false, force: :cascade do |t|
+    t.integer "point_of_interest_id", null: false
+    t.integer "tag_id",               null: false
+  end
+
+  add_index "points_of_interest_tags", ["point_of_interest_id"], name: "index_points_of_interest_tags_on_point_of_interest_id", using: :btree
+  add_index "points_of_interest_tags", ["tag_id"], name: "index_points_of_interest_tags_on_tag_id", using: :btree
+
+  create_table "tags", force: :cascade do |t|
+    t.string   "key"
+    t.integer  "sortno"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  add_index "tags", ["key"], name: "index_tags_on_key", unique: true, using: :btree
 
 end
