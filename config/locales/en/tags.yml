@@ -1,11 +1,11 @@
 en:
   tag:
     shelter:
-      name: "Shelter"
-      description:
+      name: Shelter
+      description: ''
     emergency_shelters:
-      name: "Emergency Shelters"
-      description: "Emergency Accommodation Centres welcomes any homeless person and offers accommodation for a night, a meal, washing facilities, and access to a doctor and a social worker to help them with their integration procedure."
+      name: Emergency Shelters
+      description: Emergency Accommodation Centres welcomes any homeless person and offers accommodation for a night, a meal, washing facilities, and access to a doctor and a social worker to help them with their integration procedure.
       instructions: |
         Contact the Samu Social by dialing 115. It is a toll-free number: you can also call it from a public phone without a card, 24/7.
         Caution: Every emergency accommodation request is not systematically met. This phone number is often busy. If so, do not hesitate to call again.
@@ -13,16 +13,16 @@ en:
         Caution: Each accommodation centre has its own internal rules. Be aware that they often have hours to respect.
         HEALTHCARE: When you arrive at a CHU, the welcoming staff can direct you to a medical and specialised team who can deliver a diagnostic.
     cada:
-      name: "CADA"
-      description: "Reception centers for Asylum Seekers (“Centres d’Accueil de Demandeurs d’Asile » CADA) are public-funded structures which can welcome you and your family (partner and underage children) during the examination process of your asylum demand. Besides providing you with an individual or collective housing solution, you will get help to cover your daily needs and benefit from administrative, social and medical assistance."
+      name: CADA
+      description: Reception centers for Asylum Seekers (“Centres d’Accueil de Demandeurs d’Asile » CADA) are public-funded structures which can welcome you and your family (partner and underage children) during the examination process of your asylum demand. Besides providing you with an individual or collective housing solution, you will get help to cover your daily needs and benefit from administrative, social and medical assistance.
       instructions: |
         To benefit from an accomodation in a reception center, you need to have applied for asylum in France and be able to prove it (asylum application attestation or receipt). The French Office for Immigration and Intergration (Office Français de l’Immigration et l’Intégration (OFII )) located where you filed your demand should offer an accomodation within 3 days, depending on availability.
         WARNING : The number of places in these centers are limited. If there is no accommodation left in your region, you might be directed to any CADA in France.
         Be careful, if you reject this proposal, you will not receive another one and won’t be able to benefit from the asylum seeker allowance.
         When you will have the answer for your asylum demand (accepted or refused by the Ofpra or the CNDA), you must leave the CADA within the agreed period of 6 months.
     cph:
-      name: "CPH"
-      description: "These centers are for statutory refugees (without money or accommodation)."
+      name: CPH
+      description: These centers are for statutory refugees (without money or accommodation).
       instructions: |
         You can ask the OFII (French Office for Immigration and Integration) for a bed in a temporary accommodation centre (CPH). If you meet the admission criteria, and a space is available, you can be accommodated there for 9 months (which can be renewed by 3 months).
         Social workers are available there to:
@@ -32,31 +32,25 @@ en:
         - help you to search for a long-term housing solution
         Please note: as a refugee, you can have direct access to private housing, or social housing, if you request it from relevant institutions or organisations.
     hotel_hostels:
-      name: "Hotels & Hostels"
-      description: "When you cannot find a spot in an accommodation centre, the Samu Social (115 number) can sometimes direct you to a hotel for free. The hotel will allow you to stay for one or several nights. However, spaces are limited. "
-      instructions:
+      name: Hotels & Hostels
+      description: 'When you cannot find a spot in an accommodation centre, the Samu
+        Social (115 number) can sometimes direct you to a hotel for free. The hotel
+        will allow you to stay for one or several nights. However, spaces are limited. '
+      instructions: ''
     calm:
-      name: "CALM"
-      description: "Comme à la Maison (CALM) is a match-making system between statutory refugees looking for housing and private individuals offering one. You and your close ones can be provided with housing from 2 weeks to several months, shared or not with your host. "
-      instructions: "The SINGA association will connect you with private individuals whose offer meets your needs. You can apply by filling a form. (link to form or CALM App) [to be completed with the new process] "
+      name: CALM
+      description: 'Comme à la Maison (CALM) is a match-making system between statutory
+        refugees looking for housing and private individuals offering one. You and
+        your close ones can be provided with housing from 2 weeks to several months,
+        shared or not with your host. '
+      instructions: 'The SINGA association will connect you with private individuals
+        whose offer meets your needs. You can apply by filling a form. (link to form
+        or CALM App) [to be completed with the new process] '
     healthcare:
-      name: "Healthcare"
-      description: ""
-
-    cmu:
-      name: "Healthcare"
-      description: |
-        Free The universal health care cover (Couverture maladie universelle, CMU) covers your medical and hospital costs and those of your spouse and children. It’s free. As asylum seekers, you are entitled to basic and complementary universal health cover from the moment of the registration of your asylum request, on presentation of the asylum application attestation (“attestation de demande d’asile”) that you have received from the one-stop service (“guichet unique”), and a document certifying the address where you are living.
-      instructions: |
-        To be eligible for the CMU, you must apply for it at your local healthcare insurance office (Caisse Primaire d'Assurance Maladie). You can be assisted in this procedure by the organisation in which you are housed, the organisation in charge of supporting you while your asylum application is being examined, by certain associations, by a community centre or an inter‐communal welfare action centre, or by a hospital social services unit. Your rights to the basic universal health cover take their effects without delay and permanently. Your rights to complementary universal health cover are only valid for a year. You must request the renewal of your rights to the complementary CMU. The CPAM may request complementary documents in order to provide you with a definitive number and an electronic health card called « Carte Vitale ».
-    ame:
-      name: "AME"
-      description: |
-        The State Medical Assistance (AME) allows a foreign national in an irregular situation to have access to health care free of charge. To request it, a file must be established (form and supporting documents). The AME is awarded for a year. Renewal of the AME must be requested every year. Some specific treatments has to be paid for even though you have been awarded the AME, except for minors for whom every care treatment are free of charge.
-      instructions: |
-        Attention Conditions of access to AME : If you are homeless, you can request an address to permanent social assistance office (Permanence sociale d’accueil ). However, this does not apply to your underage child. You are supposed to receive financial resources under a certain limit. The financial resources taken in account are those from the last 12 months. - Print You must print and fill in the form CERFA n°11573*05 available on line or at the local healthcare insurance office (Caisse primaire d;assurance maladie, CPAM). The form includes a note indicating which document to provide in relation to your specific situation. - Send The file must be send or tabled to your local healthcare insurance office (cpam). - Happy & Unhappy Your local healthcare insurance office informs you of his decision not later than 2 months after You have submitted your request,. If you have not received any response sfter this delay, it means that your request has been refused. If your requested is accepted, you will be convened to pick up your AME admission card. This card must be presented to health professionals.
+      name: Healthcare
+      description: ''
     pass:
-      name: "PASS"
+      name: PASS
       description: |
         The PASS is a place, present in certain hospitals, for information and for free of charge healthcare, open for all.
         You will be taken care of by doctors and drugs would be delivered to you free of charge. The PASS can request the help of interpreters if you do not speak French. The PASS allows you to obtain general or specific medical consultations.
@@ -64,104 +58,73 @@ en:
         When you arrive, a doctor will examine you and will direct you towards a social worker who will help for your administrative actions, or towards a doctor specialist if needed. You can have access to healthcare, further medical exams and drugs if you need to start a treatment soon.
         Remark : There are different kind of PASS in Paris according to you care needs: generalists, dentists, dermatologists, ophthalmologists and psychiatrists.
     hospitals:
-      name: "Hospital"
+      name: Hospital
       description: |
         Free Access to health emergency services is free and open to all in the emergency services of every hospital of the city. Attention /!\ You should not be afraid of going to the hospital and to respond to their questions. Doctors do not work in relation with police and do not communicate the information you give them.
       instructions: |
         >> Go to the hospital When arriving at the emergency services, go to the reception: to create your medical record, information will be requested, but you are not compelled to provide for your identification card. Step graphics 1. A nurse (charged with orientation and welcoming) assesses your health status with you. The seriousness of your health status is determined, from most urgent – immediate patient care – to less urgent. 2. Once with the doctor, he/she provides for adequate care and may request further exams, such as an X-ray or blood tests. TO make those tests and to obtain the results may be takes time. They may request you to wait in a waiting room if your condition is not serious. During this waiting time, if the pain increases or if your condition changes, do not hesitate to inform nurses or the reception. 3. After the treatment: If your condition allows it, you will leave the hospital, by your own means, with your medical record. OR the doctor can request you to stay under observation at the hospital in the emergency service, to watch your health condition. OR you may be hospitalized, with you consent, in a service of the hospital, or eventually transferred in another institution. >> Call the emergency medical care Free, Phone If you or someone needs urgent care but cannot move, you have to call the emergency numbers. Emergency numbers may be called for free every day and at every hour of the night. List of the FREE emergency numbers: 15: SAMU (Urgent Medical Care Service) Contact the SAMU to obtain medical care for a life threatening emergency. You will be asked information, you can answer without risk. Do not hang up the phone without being asked to. 17: Police. Contact the police to report an aggression or violence and to obtain immediate help. 18 : Fire Services. Contact the fire service whenever people are in danger or in case of accident to obtain immediate intervention of the firefighters. 114 : Emergency number for deaf and hard of hearing. This number is reachable by SMS and by fax.
     doctors:
-      name: "Doctors"
-      description:
-      instructions:
-    associations:
-      name: "Associations"
-      description: |
-        Healthcare and advice clinics (caso) from Médecins du Monde - Médecins du Monde an independent association which brings together voluntary healthcare professionals, to provide for humanitarian help to people in need. - In those Healthcare and advice clinics (caso), you are welcomed, treated for free, accompanied and guided to access to other healthcare institutions. Medical comity for exiled (COMEDE) The COMEDE is specialised for healthcare to exiled. You can call their helpline to obtain assistance on access to healthcare or to obtain medical advices
-      instructions: |
-        - Phone permanence concerning: Rights, Support, Healthcare:
-        01 45 21 63 12 (from monday to thursday 9h30-12h30)
-        Support and expertise for accessing the healthcare, procedures to obtain a sickness protection, the operation systems for the right of residence because of medical reasons and other benefits concerning to the health status of foreigners.
-        - Phone permanence concerning: Medical situation:
-        01 45 21 38 93 (mondays, tuesdays and wednesdays from 14h30 to 17h30)
-        Support and expertise concerning medical care, prevention, health check, medical certification for asylum seekers or right of residence
-        - Phone permanence concerning: Mental Health:
-        01 45 21 39 31 (tuesdays and wednesdays from14h30 to 17h30)
-        Support and expertise for orientation and access to healthcare of the mental health. Information and sharing of experiences on the questions relatives to the Clinique de l’Exil.
-        For all questions concerning the right of residence because of medical reasons, the access of healthcare and social performances relatives to the health of foreigners living in the region Île de France, you can go to the Permanence de l’Espace Santé Droit animated from the Comede et la Cimade.
-        01 43 52 69 55 (tuesdays from 9H30-12H30, and the wednesdays and fridays from 9H30-12H30 and from14h30 to 17h30)
+      name: Doctors
+      description: ''
+      instructions: ''
     specialists:
-      name: "Specialists (includes gynecology)"
+      name: Specialists (includes gynecology)
       description: |
         You can have access to medical specialists.
-      instructions: |
-        1) Gynecology, obstétrics
-        With the system PASS you can have access to specialists in gynecology and obstretic in hôpital Hôtel-Dieu and Hôpital Cochin - Port-Royal – Tarnier.
-
-        2) Dental treatment
-        With the system PASS you can have access to dental treatments in hospitals Henri-Mondor (Créteil 94) ; Louis-Mourier (Colombes – 92) ; Pitié-Salpêtrière (Paris 13e).
-        3) Dermatology
-        With the system PASS you can have access to a dermatologist in Saint-Louis hospital.
-        4) Psychiatry
-        • Système PASS
-        With the system PASS you can have access to psychiatric help in Henri-Mondor hospital (Créteil 94)
-        • Psychosocial centers
-
-        - Parcours d'exil
-        Parcours d’exil is a care center for victims of torture. It provides free medical and pshycologic care.
-        - Centre Primo Levi Paris
-        Le Primo Levi Center helps victims of torture and refugees in France.
-        - Centre du psychotrauma de l’Institut de victimologie de Paris.
-
-        This center provides early and specific treatments to victims of traumatic events.
-        - COMEDE
-        helpline mental health: 01 45 21 39 31 (Tuesdays and Wednesdays, from 14h30 to 17h30)
-        Support and expertise for guiding and mental healthcare. Information and sharing of experiences on issues relating to exile clinic.
-
-        5) Soins pour enfants de moins de 6 ans
-        You can find healthcare (vaccination) for children between 0 and 6 years old in maternal and infantile protection service (Services de protection maternelle et infantile (PIM)).
-        http://meslieux.paris.fr/centres-de-pmi
-        Opening : Monday to Friday, 8h30-12h30 and 13h30-17h30. It is advised to take an appointment by phonecall.
-
-
-
+      instructions: "1) Gynecology, obstétrics\nWith the system PASS you can have\
+        \ access to specialists in gynecology and obstretic in hôpital Hôtel-Dieu\
+        \ and Hôpital Cochin - Port-Royal – Tarnier.\n\n2) Dental treatment\nWith\
+        \ the system PASS you can have access to dental treatments in hospitals Henri-Mondor\
+        \ (Créteil 94) ; Louis-Mourier (Colombes – 92) ; Pitié-Salpêtrière (Paris\
+        \ 13e).\n3) Dermatology\nWith the system PASS you can have access to a dermatologist\
+        \ in Saint-Louis hospital.\n4) Psychiatry\n• Système PASS\nWith the system\
+        \ PASS you can have access to psychiatric help in Henri-Mondor hospital (Cré\
+        teil 94)\n• Psychosocial centers\n\n- Parcours d'exil\nParcours d’exil is\
+        \ a care center for victims of torture. It provides free medical and pshycologic\
+        \ care.\n- Centre Primo Levi Paris\nLe Primo Levi Center helps victims of\
+        \ torture and refugees in France.\n- Centre du psychotrauma de l’Institut\
+        \ de victimologie de Paris.\n\nThis center provides early and specific treatments\
+        \ to victims of traumatic events.\n- COMEDE\nhelpline mental health: 01 45\
+        \ 21 39 31 (Tuesdays and Wednesdays, from 14h30 to 17h30)\nSupport and expertise\
+        \ for guiding and mental healthcare. Information and sharing of experiences\
+        \ on issues relating to exile clinic.\n\n5) Soins pour enfants de moins de\
+        \ 6 ans\nYou can find healthcare (vaccination) for children between 0 and\
+        \ 6 years old in maternal and infantile protection service (Services de protection\
+        \ maternelle et infantile (PIM)).\nhttp://meslieux.paris.fr/centres-de-pmi\n\
+        Opening : Monday to Friday, 8h30-12h30 and 13h30-17h30. It is advised to take\
+        \ an appointment by phonecall.\n"
     transportation:
-      name: "Transportation"
-
+      name: Transportation
     prices:
-      name: "Prices"
-      description: |
-        - Ticket t+:
-        * 1,80€: for passengers travelling occasionally (RER, Metro, Bus, Tram)
-        * 14,10€: booklet from 10 tickets t+
-        * 7,05€: booklet from 10 tickets t+ & reduce price for children (4 to 10 years)
-
-        - Mobilis (one day):
-        * 7€: for passengers wanting to travel as much as they want in chosen zones for one day
-
-        - Passe Navigo:
-        * Navigo month: 70€ for all the zones
-        * Navigo week: 21,25€ for all the zones
-
-        - Carte Imagine R:
-        * Student:
-        >> Cash payment: 341,90€
-        >> Monthly payment: 37,10 €
-        * School:
-        >> Without scholarship: 341,90€
-        >> With scholarship:
-        Price 5: 230,60€
-        Price 7: 119,30€
-
-        - Velib:
-        * Ticket 1 day: price 1,70 €
-        * Ticket 7 days: price 8,00 €
-        * Vélib' Classique 29 € (unllimited, first 30 min for free)
-        * Vélib' Passion 39 € (unllimited, first 30 min for free)
-
-      instructions: |
-        Price discount: The pricing Solidarité Transport allows you to buy tickets at a reduce price (ticket t+ in booklet and single tickets) and bundles (forfaits). The discount Solidarité Transport are reserved for people with an insurance and for people who benefit from: The Couverture Maladie Universelle Complémentaire (CMUC). or the Aide Médicale d'État (AME). And only for people who benefit from: the Allocation Spécifique de Solidarité (ASS) without receiving the Couverture Maladie Universelle Complémentaire (CMUC). For free: The bundle (forfait) Gratuité Transport allows you to travel for free during 3 months in all 6 zones. Reserved for people living in the region Île de France who benefit from: - the Revenu de Solidarité Active (RSA) and people under specific income conditions: for more informations, please call the Solidarité Transport Île-de-France agency at the following number: 0 800 948 999. - or from the Allocation Spécifique de Solidarité (ASS) and who benefit as well from the Couverture Maladie Universelle Complémentaire (CMUC).
+      name: Prices
+      description: "- Ticket t+:\n* 1,80€: for passengers travelling occasionally\
+        \ (RER, Metro, Bus, Tram)\n* 14,10€: booklet from 10 tickets t+\n* 7,05€:\
+        \ booklet from 10 tickets t+ & reduce price for children (4 to 10 years)\n\
+        \n- Mobilis (one day):\n* 7€: for passengers wanting to travel as much as\
+        \ they want in chosen zones for one day\n\n- Passe Navigo:\n* Navigo month:\
+        \ 70€ for all the zones\n* Navigo week: 21,25€ for all the zones\n\n- Carte\
+        \ Imagine R:\n* Student:\n>> Cash payment: 341,90€\n>> Monthly payment: 37,10\
+        \ €\n* School:\n>> Without scholarship: 341,90€\n>> With scholarship:\nPrice\
+        \ 5: 230,60€\nPrice 7: 119,30€\n\n- Velib:\n* Ticket 1 day: price 1,70 €\n\
+        * Ticket 7 days: price 8,00 €\n* Vélib' Classique 29 € (unllimited, first\
+        \ 30 min for free)\n* Vélib' Passion 39 € (unllimited, first 30 min for free)\n"
+      instructions: "Price discount: The pricing Solidarité Transport allows you to\
+        \ buy tickets at a reduce price (ticket t+ in booklet and single tickets)\
+        \ and bundles (forfaits). The discount Solidarité Transport are reserved for\
+        \ people with an insurance and for people who benefit from: The Couverture\
+        \ Maladie Universelle Complémentaire (CMUC). or the Aide Médicale d'État (AME).\
+        \ And only for people who benefit from: the Allocation Spécifique de Solidarité\
+        \ (ASS) without receiving the Couverture Maladie Universelle Complémentaire\
+        \ (CMUC). For free: The bundle (forfait) Gratuité Transport allows you to\
+        \ travel for free during 3 months in all 6 zones. Reserved for people living\
+        \ in the region Île de France who benefit from: - the Revenu de Solidarité\
+        \ Active (RSA) and people under specific income conditions: for more informations,\
+        \ please call the Solidarité Transport Île-de-France agency at the following\
+        \ number: 0 800 948 999. - or from the Allocation Spécifique de Solidarité\
+        \ (ASS) and who benefit as well from the Couverture Maladie Universelle Complé\
+        mentaire (CMUC).\n"
     transport_cards:
-      name: "Transport Cards"
+      name: Transport Cards
       description: |
         - NAVIGO Card
         - IMAGINE’R Card
@@ -183,26 +146,21 @@ en:
 
 
         -Carte « Améthyste et Emeraude »: reserved for elderly people and handicaped people living in Paris. This card allows unlimited transportation during one year in all the region Île de France (with Métro, RER, Bus, Noctilien and Tramway).
-
     railway:
-      name: "Metro/RER/Tramway"
+      name: Metro/RER/Tramway
       description: |
         METRO: Available for all. One ticket costs 1€80 and 14€10 for 10 tickets, for all transportation in Paris, available at all the Metro stations. Children get half price, from 4 to 10 years old and tickets are for free under 4 years old.
 
         RER: Available for all. In order to travel outside of Paris, it is necessary to take the RER, with a different ticket that can cost up to 5€05. The price vary according to the departure & arrival zone. However, with the Navigo card, you can travel freely in every zones.
 
         TRAMWAY: Available for all. It is the same system as for the Metro for travelling outside of Paris, a different ticket is necessary for a maximum price of 3€55 (full price)
-
-      instructions:
-
-
+      instructions: ''
     bus:
-      name: "Bus"
-      description: "Available for all."
-      instructions:
-
+      name: Bus
+      description: Available for all.
+      instructions: ''
     bike:
-      name: "Bike"
+      name: Bike
       description: |
         A daily ticket is available for everyone owning a credit card. For the subscriptions, you need to have an identity card valid on the french territory. Available 24/7.
         Price of the ticket:
@@ -210,26 +168,20 @@ en:
         Price of the subscriptions:
         * 19€ (Unlimited tour, 30 first minutes are free)
         * 39€ (Unlimited tour, 45 first minutes are free)
-      instructions:
+      instructions: ''
     night:
-      name: "Night"
+      name: Night
       description: |
         Available to all. The Noctilien is a bus network operating from 0h30 to 5h30 instead of the normal transportation time. The Metro tickets and the cards (Navigo card and Imagine R card) are valid to use this service. You can also buy a ticket directly in the bus for 2€.
-      instructions:
+      instructions: ''
     others:
-      name: "Others"
+      name: Others
       description: |
         - Electric car (autolib)
       instructions: |
         - Autolib: only available for asylum seekers and refugees. A subscription is necessary, available for one day to one year. You need to be more than 18 and have a valid driving licence.
-
-
-    asylum_process:
-      name: "Asylumm Process"
-      description: ""
-
     before_asylum_deman:
-      name: "Before asylum demand"
+      name: Before asylum demand
       description: |
         If you wish to apply for asylum and become an asylum seeker please follow the instructions below. Meanwhile you still have rights:
         -        Get free medical care
@@ -245,42 +197,75 @@ en:
         > You want to stay in France and regularize your situation? Apply for asylum (link to asylum) to obtain your refugee status.
 
         > You don’t want to apply for asylum in France? Enter in contact with associations (link to contact associations)  to obtain a residence permit.
-
     asylum_process:
-      name: "Asylum process"
+      name: Asylum process
       description: |
         >> What is the application for asylum?
         You have the right to apply for asylum in France to obtain the refugee status.
         To obtain the refugee status you must be unable to return to your home country because you fear repercussion if you return to you country due to your race, religion, your nationality, your political opinion or the fact that you belong to a particular social group.
         The goal of the application is to explain what happened in your country and what obliged you to leave it and why you cannot return. You must explain in details (date, place, players) the important things that happened to you and what you felt faced with these issues, your fears.
-
-      instructions: |
-        •        How to apply?
-        1st step: You have to go to an initial reception association , in charge of accompanying you in your procedures. They will help you to fill in the form for the asylum application with your name and your family setting. They will take identity photos and will arrange for a meeting at the one-step service at the prefecture . They will give you a convocation to go to the single counter. You must go to this meeting.
-        WARNING: YOU WILL NOT BE RECIVED AT THE PRFECTURE BEFORE YOU GET A MEETING TROUGH A PRE-ADMISSION ASSOCIATION
-        2nd step: Your meeting at the one-step service will be held with agents of the French office for immigration and integration (“Office français pour l'immigration et l'intégration”, Ofii ) to register your asylum application. They will validate the information, take the imprints of your 10 fingers and you’ll get an individual interview on your journey to France. They will interrogate you on your personal situation (need of shelter).
-        /!\ If your imprints have been taken in another country you will be sent back to said country to apply for asylum there (it’s the “Dublin procedure”).
-                Your application for asylum will be registered and you will receive an attestation of your demand of asylum valid for 1 month. /!\ Keep this attestation safely.
-                You will be directed towards a specialized structure that will help you find shelter and apply for asylum.
-        3rd step: You have 21 days to fill in the application for asylum demand in French given by the prefecture. You must send by mail at the French Office of refugee and asylum applicant’s protection (“Office français de protection des réfugiés et des demandeurs d'asile, Ofpra ), by “registered mail with reception proof” (« recommandé avec accusé de réception »):
-        -        This file
-        -        The copy of the valid attestation of your demand for asylum.
-        -        To identity photos
-        -        The travel document eventually in your possession.
-        Address: OFPRA, 201 rue Carnot, 94 136 FONTENAY-SOUS-BOIS CEDEX.
-        /!\ In case of a change in your address or situation contact OPFRA
-        4th step: You will receive a letter from OPFRA informing you of the registration of your demand and you file number.
-        5th step: You must present this letter to the prefecture of your place of residence to obtain the renewal of your attestation of application for asylum that will be valid until OPFRA’s decision. For the renewal, you must bring all the documentation asked by the prefecture, including the document certifying the address where you are living.
-        /!\ Be sure to keep you attestation safely and have a copy on you at all times.
-        Your asylum application will be examined by OPFRA in maximum 9 months (exception for accelerated procedures: 15 days).
-        6th step: You will be summoned to a meeting at OPFRA. During that meeting, an OPFRA agent called “protection officer” will ask you to talk about your origins, to tell what happened in your country that lead to you departure and why you cannot go back, to determine if you fill in the criteria that define a refugee. The interview will take place with an interpreter from OPFRA if necessary. The interview is individual but it’s possible to be accompanied by an authorized third party.
-        WARNING: You have to go to this meeting.
-        The answer from OPFRA can take several months. This extended silence doesn’t mean that your demand was rejected. If OPFRA cannot make a decision within 6 months you will be informed by mail.
-        >> If OPFRA gives a positive answer you will obtain the refugee status with a residence permit of 10 years of a subsidiary protection.
-        >> If you asylum application is rejected, you will be able to contest this decision in front of the national court of asylum right (“Cour National du Droit d'Asile”, CNDA ) within 1 month. For that, ask for the help of your social worker. You can ask to be accompanied by a lawyer for free. You’ll have to file a new application and tell your story. If you haven’t filed an appeal within 30 days, it’s not possible to do it anymore. You lose the asylum seeker allowance (l’Allocation pour Demandeur d'Asile, ADA)  and you are in irregular situation. Otherwise you can ask for a residence permit. The prefecture will address you with an obligation to leave the french territory (OQTF). You can contest it through the administrative tribunal, 1 month after reception at the latest. You are allowed a lawyer (jurisdictional help.
-
+      instructions: "•        How to apply?\n1st step: You have to go to an initial\
+        \ reception association , in charge of accompanying you in your procedures.\
+        \ They will help you to fill in the form for the asylum application with your\
+        \ name and your family setting. They will take identity photos and will arrange\
+        \ for a meeting at the one-step service at the prefecture . They will give\
+        \ you a convocation to go to the single counter. You must go to this meeting.\n\
+        WARNING: YOU WILL NOT BE RECIVED AT THE PRFECTURE BEFORE YOU GET A MEETING\
+        \ TROUGH A PRE-ADMISSION ASSOCIATION\n2nd step: Your meeting at the one-step\
+        \ service will be held with agents of the French office for immigration and\
+        \ integration (“Office français pour l'immigration et l'intégration”, Ofii\
+        \ ) to register your asylum application. They will validate the information,\
+        \ take the imprints of your 10 fingers and you’ll get an individual interview\
+        \ on your journey to France. They will interrogate you on your personal situation\
+        \ (need of shelter).\n/!\\ If your imprints have been taken in another country\
+        \ you will be sent back to said country to apply for asylum there (it’s the\
+        \ “Dublin procedure”).\n        Your application for asylum will be registered\
+        \ and you will receive an attestation of your demand of asylum valid for 1\
+        \ month. /!\\ Keep this attestation safely.\n        You will be directed\
+        \ towards a specialized structure that will help you find shelter and apply\
+        \ for asylum.\n3rd step: You have 21 days to fill in the application for asylum\
+        \ demand in French given by the prefecture. You must send by mail at the French\
+        \ Office of refugee and asylum applicant’s protection (“Office français de\
+        \ protection des réfugiés et des demandeurs d'asile, Ofpra ), by “registered\
+        \ mail with reception proof” (« recommandé avec accusé de réception »):\n\
+        -        This file\n-        The copy of the valid attestation of your demand\
+        \ for asylum.\n-        To identity photos\n-        The travel document eventually\
+        \ in your possession.\nAddress: OFPRA, 201 rue Carnot, 94 136 FONTENAY-SOUS-BOIS\
+        \ CEDEX.\n/!\\ In case of a change in your address or situation contact OPFRA\n\
+        4th step: You will receive a letter from OPFRA informing you of the registration\
+        \ of your demand and you file number.\n5th step: You must present this letter\
+        \ to the prefecture of your place of residence to obtain the renewal of your\
+        \ attestation of application for asylum that will be valid until OPFRA’s decision.\
+        \ For the renewal, you must bring all the documentation asked by the prefecture,\
+        \ including the document certifying the address where you are living.\n/!\\\
+        \ Be sure to keep you attestation safely and have a copy on you at all times.\n\
+        Your asylum application will be examined by OPFRA in maximum 9 months (exception\
+        \ for accelerated procedures: 15 days).\n6th step: You will be summoned to\
+        \ a meeting at OPFRA. During that meeting, an OPFRA agent called “protection\
+        \ officer” will ask you to talk about your origins, to tell what happened\
+        \ in your country that lead to you departure and why you cannot go back, to\
+        \ determine if you fill in the criteria that define a refugee. The interview\
+        \ will take place with an interpreter from OPFRA if necessary. The interview\
+        \ is individual but it’s possible to be accompanied by an authorized third\
+        \ party.\nWARNING: You have to go to this meeting.\nThe answer from OPFRA\
+        \ can take several months. This extended silence doesn’t mean that your demand\
+        \ was rejected. If OPFRA cannot make a decision within 6 months you will be\
+        \ informed by mail.\n>> If OPFRA gives a positive answer you will obtain the\
+        \ refugee status with a residence permit of 10 years of a subsidiary protection.\n\
+        >> If you asylum application is rejected, you will be able to contest this\
+        \ decision in front of the national court of asylum right (“Cour National\
+        \ du Droit d'Asile”, CNDA ) within 1 month. For that, ask for the help of\
+        \ your social worker. You can ask to be accompanied by a lawyer for free.\
+        \ You’ll have to file a new application and tell your story. If you haven’\
+        t filed an appeal within 30 days, it’s not possible to do it anymore. You\
+        \ lose the asylum seeker allowance (l’Allocation pour Demandeur d'Asile, ADA)\
+        \  and you are in irregular situation. Otherwise you can ask for a residence\
+        \ permit. The prefecture will address you with an obligation to leave the\
+        \ french territory (OQTF). You can contest it through the administrative tribunal,\
+        \ 1 month after reception at the latest. You are allowed a lawyer (jurisdictional\
+        \ help.\n"
     refugee_rights:
-      name: "Refugee rights"
+      name: Refugee rights
       description: |
         As a refugee, you have access to a 10 year residence card, renewable, authorizing you to circulate freely on the French territory. Your family (children, spouse) can access a 10 year resident card.
         As a beneficiary of subsidiary protection, you have the right to a temporary residency permit of1 year, renewable afterward for 2 year periods, allowing you to circulate freely on the French territory. Your family (children, spouse) can benefit from a 1 year residency permit.
@@ -290,31 +275,32 @@ en:
         If you have a 10 year resident card, you can make your family join you with the “family reunification procedure”.
         By signing the welcome and integration contract (contrat d’accueil et d’intégration, CAI) you will benefit from a civic training, practical information on everyday life, language training and a social and professional support.
         You can access housing, work, health and allocations. The employment  and housing  questions are handled by the OFII. You can ask for the French nationality.
-
     education:
-      name: "Education"
-
+      name: Education
     education_rights:
-      name: "Education rights"
+      name: Education rights
       description: |
         If you are already a tertiary education degree holder and wish to continue studying at a French university or other French tertiary education institute, you may ask for a prior study proof exemption from the university/other institute of tertiary education at which you would like to study for a French degree. If granted, this exemption will enable you to validate part or all of your prior study.
       instructions: |
         You must present the foreign diploma(s) that you hold, their translations as well as a description of the course contents. The president of the university or other tertiary education institute will make a decision based on these documents following consultation of an educational committee.
     school_for_child:
-      name: "School for child"
+      name: School for child
       description: |
         School is compulsory for children aged 6 and beyond. The organisation that helps you settle in France can also help you registering your children to a school.
-      instructions: |
-        To register your children to kindergarten (from age 3), you must go to the school office of the local townhall ('mairie d'arrondissement'). The townhall you must go to is the one of the 'arrondissement' (district) where your  place of residence is located.
-        To register your child to primary school (from age 6), you must go to your closest townhall ('mairie d'arrondissement'). You must bring the following documents with you:
-        - a birth certificate for your child or a legal document stating that you are the child's father or mother,
-        - a proof of address in France
-        - a document with information on your child's vaccines.
-        To register your child to secondary school (from age 11), you must go directly to the closest school to your place of residence. The school will then provide you with information on the documents that are needed.
-        MAP Local townhalls in Paris:  http://meslieux.paris.fr/mairies-d-arrondissement
-
+      instructions: "To register your children to kindergarten (from age 3), you must\
+        \ go to the school office of the local townhall ('mairie d'arrondissement').\
+        \ The townhall you must go to is the one of the 'arrondissement' (district)\
+        \ where your  place of residence is located.\nTo register your child to primary\
+        \ school (from age 6), you must go to your closest townhall ('mairie d'arrondissement').\
+        \ You must bring the following documents with you:\n- a birth certificate\
+        \ for your child or a legal document stating that you are the child's father\
+        \ or mother,\n- a proof of address in France\n- a document with information\
+        \ on your child's vaccines.\nTo register your child to secondary school (from\
+        \ age 11), you must go directly to the closest school to your place of residence.\
+        \ The school will then provide you with information on the documents that\
+        \ are needed.\nMAP Local townhalls in Paris:  http://meslieux.paris.fr/mairies-d-arrondissement\n"
     diplomas:
-      name: "Diplomas"
+      name: Diplomas
       description: |
         If you passed diploma in other countries than France, you could have an equivalence in France.
       instructions: |
@@ -326,236 +312,204 @@ en:
 
         A proof of your level of schooling can be obtained.
         /!\ The  ENIC-NARIC Centre France does not meet individual applicants in person. It can be contacted via phone: 33-1 45 07 63 21 or 33-1 45 07 63 10 and via email: enic-naric@ciep.fr
-
-
     language_learning:
-      name: "Language Learning"
-      description:
-      instructions:
-
+      name: Language Learning
+      description: ''
+      instructions: ''
     food:
-      name: "Food"
-      description: ""
-
+      name: Food
+      description: ''
     free_meals:
-      name: "Food"
-      description: "There are several places that offer free meals."
+      name: Food
+      description: There are several places that offer free meals.
       instructions: |
-          The charity ‘Les Restos du Coeur’ offers food assistance in distribution centres or trucks. The distribution centres are also welcoming centres, where you can keep warm while meeting and talking to other people. Warm meals are served at a table, generally at lunch time, all year round. The distribution trucks (‘Camions du Coeur’) give out a soup, a hot dish and a coffee in the street. No specific proof or document is required.
-          Some restaurants also offer meals inside or to take away for the most destitute people.
-           /!\ Some restaurants only accept people who meet specific criteria.
+        The charity ‘Les Restos du Coeur’ offers food assistance in distribution centres or trucks. The distribution centres are also welcoming centres, where you can keep warm while meeting and talking to other people. Warm meals are served at a table, generally at lunch time, all year round. The distribution trucks (‘Camions du Coeur’) give out a soup, a hot dish and a coffee in the street. No specific proof or document is required.
+        Some restaurants also offer meals inside or to take away for the most destitute people.
+         /!\ Some restaurants only accept people who meet specific criteria.
 
-           Also, the association « les Restos du Cœur » delivers food packages. A package enables to prepare a complet meal every day. To receive this food help, you need to subscribe to the association and justify a lack of resources.
+         Also, the association « les Restos du Cœur » delivers food packages. A package enables to prepare a complet meal every day. To receive this food help, you need to subscribe to the association and justify a lack of resources.
     cheap_meals:
-      name: "Cheap Meals"
+      name: Cheap Meals
       description: |
-          You can find in some places, cheap meals for people in a precarious situation.
+        You can find in some places, cheap meals for people in a precarious situation.
 
-          You can also go to social groceries which sell alimentary and hygienic items at low cost.
-          /!\ Access conditions are different depending on the structure.
-      instructions:
+        You can also go to social groceries which sell alimentary and hygienic items at low cost.
+        /!\ Access conditions are different depending on the structure.
+      instructions: ''
     meals_of_the_world:
-      name: "Meals of the world"
-      description: ""
-      instructions: ""
-
+      name: Meals of the world
+      description: ''
+      instructions: ''
     administrative_process:
-      name: "Administrative Process"
-      description: ""
-
+      name: Administrative Process
+      description: ''
     ame:
-      name: "AME"
+      name: AME
       description: |
-          The State Medical Assistance (AME) allows a foreign national in an irregular situation to have access to health care free of charge. To request it, a file must be established (form and supporting documents). The AME is awarded for a year. Renewal of the AME must be requested every year.
+        The State Medical Assistance (AME) allows a foreign national in an irregular situation to have access to health care free of charge. To request it, a file must be established (form and supporting documents). The AME is awarded for a year. Renewal of the AME must be requested every year.
 
-          Some specific treatments has to be paid for even though you have been awarded the AME, except for minors for whom every care treatment are free of charge.
+        Some specific treatments has to be paid for even though you have been awarded the AME, except for minors for whom every care treatment are free of charge.
       instructions: |
-          Conditions of access to AME : If you are homeless, you can request an address to permanent social assistance office (Permanence sociale d’accueil ). However, this does not apply to your underage child. You are supposed to receive financial resources under a certain limit. The financial resources taken in account are those from the last 12 months.
-              * You must print and fill in the form CERFA n°11573*05 available on line or at the local healthcare insurance office (Caisse primaire d;assurance maladie, CPAM). The form includes a note indicating which document to provide in relation to your specific situation.
-              * The file must be send or tabled to your local healthcare insurance office (cpam).
-              * Your local healthcare insurance office informs you of his decision not later than 2 months after You have submitted your request,. If you have not received any response sfter this delay, it means that your request has been refused. If your requested is accepted, you will be convened to pick up your AME admission card. This card must be presented to health professionals.
+        Conditions of access to AME : If you are homeless, you can request an address to permanent social assistance office (Permanence sociale d’accueil ). However, this does not apply to your underage child. You are supposed to receive financial resources under a certain limit. The financial resources taken in account are those from the last 12 months.
+            * You must print and fill in the form CERFA n°11573*05 available on line or at the local healthcare insurance office (Caisse primaire d;assurance maladie, CPAM). The form includes a note indicating which document to provide in relation to your specific situation.
+            * The file must be send or tabled to your local healthcare insurance office (cpam).
+            * Your local healthcare insurance office informs you of his decision not later than 2 months after You have submitted your request,. If you have not received any response sfter this delay, it means that your request has been refused. If your requested is accepted, you will be convened to pick up your AME admission card. This card must be presented to health professionals.
     cmu:
-      name: "CMU"
+      name: CMU
       description: |
-          The universal health care cover (Couverture maladie universelle, CMU) covers your medical and hospital costs and those of your spouse and children. It’s free.
+        The universal health care cover (Couverture maladie universelle, CMU) covers your medical and hospital costs and those of your spouse and children. It’s free.
 
-          As asylum seekers, you are entitled to basic and complementary universal health cover from the moment of the registration of your asylum request, on presentation of the asylum application attestation (“attestation de demande d’asile”) that you have received from the one-stop service (“guichet unique”), and a document certifying the address where you are living.
+        As asylum seekers, you are entitled to basic and complementary universal health cover from the moment of the registration of your asylum request, on presentation of the asylum application attestation (“attestation de demande d’asile”) that you have received from the one-stop service (“guichet unique”), and a document certifying the address where you are living.
       instructions: |
-          To be eligible for the CMU, you must apply for it at your local healthcare insurance office (CPAM). You can be assisted in this procedure by the organisation in which you are housed, the organisation in charge of supporting you while your asylum application is being examined, by certain associations, by a community centre or an inter‐communal welfare action centre, or by a hospital social services unit.
+        To be eligible for the CMU, you must apply for it at your local healthcare insurance office (CPAM). You can be assisted in this procedure by the organisation in which you are housed, the organisation in charge of supporting you while your asylum application is being examined, by certain associations, by a community centre or an inter‐communal welfare action centre, or by a hospital social services unit.
 
-          Your rights to the basic universal health cover take their effects without delay and permanently. Your rights to complementary universal health cover are only valid for a year. You must request the renewal of your rights to the complementary CMU.
-          The CPAM may request complementary documents in order to provide you with a definitive number and an electronic health card called « Carte Vitale ».
+        Your rights to the basic universal health cover take their effects without delay and permanently. Your rights to complementary universal health cover are only valid for a year. You must request the renewal of your rights to the complementary CMU.
+        The CPAM may request complementary documents in order to provide you with a definitive number and an electronic health card called « Carte Vitale ».
     ada:
-      name: "ADA"
+      name: ADA
       description: |
-          The asylum seeker allowance (Allocation pour Demandeur d’Asile, ADA) is a sum of money that you will received during the examination of your asylum demand.
-          /!\ You must have accepted the care package which will be offered to you by the l’Office Français de l’Immigration et l’Intégration (Ofii).
-
+        The asylum seeker allowance (Allocation pour Demandeur d’Asile, ADA) is a sum of money that you will received during the examination of your asylum demand.
+        /!\ You must have accepted the care package which will be offered to you by the l’Office Français de l’Immigration et l’Intégration (Ofii).
       instructions: |
-          The demand is done in the time of the recording of your asylum demand at one-step service of the prefecture. Your allowance will be deposit in a delay of 21 days after the recording of your asylum demand at the Ofpra.
-          The amount of the ADA depends on your familial situation, your resources and your accommodation (around 340 euros / month for a single person). /!\You won’t received the ADA if you actually perceived more than 524,16 € by month.
+        The demand is done in the time of the recording of your asylum demand at one-step service of the prefecture. Your allowance will be deposit in a delay of 21 days after the recording of your asylum demand at the Ofpra.
+        The amount of the ADA depends on your familial situation, your resources and your accommodation (around 340 euros / month for a single person). /!\You won’t received the ADA if you actually perceived more than 524,16 € by month.
 
-          WARNING : The payment of the ADA can be suspended if you leave the accommodation provided by the Ofii, if you lie about your situation or if you don’t respect your obligation to report to the authorities when you have a rendez-vous.
-          The ADA will be paid in until the definitive decision about your asylum demand by the Ofpra or the CNDA.
-          You can contest the decision about the ADA by submit a request to the Ofii and then to the administrative court. You can ask help from associations.
-          MAP : guichet unique + asso
+        WARNING : The payment of the ADA can be suspended if you leave the accommodation provided by the Ofii, if you lie about your situation or if you don’t respect your obligation to report to the authorities when you have a rendez-vous.
+        The ADA will be paid in until the definitive decision about your asylum demand by the Ofpra or the CNDA.
+        You can contest the decision about the ADA by submit a request to the Ofii and then to the administrative court. You can ask help from associations.
+        MAP : guichet unique + asso
     job:
-      name: "Job"
+      name: Job
       description: |
-          As an asylum seeker, you can only access to job market if your asylum process last more than 9 months and regarding some conditions.
-          As refugee, you can access to the job market without special conditions.
-      instructions:
-          I. If you are an asylum-seeker
-          As an asylum-seeker, you may be allowed to work if OFPRA  has not provided you with an answer on your asylum application within 9 months following the registration of your application.
-          You must first present a work permit application formulated by your future employer. You must also ask for an employment permit from the prefecture depending on your place of residence.
-          The prefecture is in charge of accepting or refusing your work permit. The prefecture will inform you of this decision.
-          In case of an approval, the préfet will send the work permits to OFII.
-
-          /!\ It is more likely that you will get a work permit if you apply for a job that is listed among professions for which there are established recruitment difficulties.
-
-          If you are a temporary work permit holder, you can ask to be registered as a job-seeker with Pôle emploi once your work contract is over.
-
-          II. Access to the job market for refugees
-
-          If your refugee status has been acknowledged, you can work from the moment you receive the first confirmation (‘récepissé’) indicating « Reconnu réfugié ».
-          If you are a subsidiary protection beneficiary, you can also work from the moment you receive the first confirmation (‘récepissé’) indicating « A demandé la délivrance d’un premier titre de séjour ».
-
-          You can claim a work contract. You can also register on the job-seekers list and receive personnalised help in finding a job.
-          Some professions are regulated and are subjected to diploma and/or nationality requirements.
+        As an asylum seeker, you can only access to job market if your asylum process last more than 9 months and regarding some conditions.
+        As refugee, you can access to the job market without special conditions.
+      instructions: |-
+        I. If you are an asylum-seeker As an asylum-seeker, you may be allowed to work if OFPRA  has not provided you with an answer on your asylum application within 9 months following the registration of your application. You must first present a work permit application formulated by your future employer. You must also ask for an employment permit from the prefecture depending on your place of residence. The prefecture is in charge of accepting or refusing your work permit. The prefecture will inform you of this decision. In case of an approval, the préfet will send the work permits to OFII.
+        /!\ It is more likely that you will get a work permit if you apply for a job that is listed among professions for which there are established recruitment difficulties.
+        If you are a temporary work permit holder, you can ask to be registered as a job-seeker with Pôle emploi once your work contract is over.
+        II. Access to the job market for refugees
+        If your refugee status has been acknowledged, you can work from the moment you receive the first confirmation (‘récepissé’) indicating « Reconnu réfugié ». If you are a subsidiary protection beneficiary, you can also work from the moment you receive the first confirmation (‘récepissé’) indicating « A demandé la délivrance d’un premier titre de séjour ».
+        You can claim a work contract. You can also register on the job-seekers list and receive personnalised help in finding a job. Some professions are regulated and are subjected to diploma and/or nationality requirements.
     civil_status:
-      name: "Civil Status"
-      description: "If you are a refugee, you must adress to the Ofpra for questions about civil status certificates."
+      name: Civil Status
+      description: If you are a refugee, you must adress to the Ofpra for questions about civil status certificates.
       instructions: |
-          As you can’t contact authorities of your country of origin, this is France, through the Ofpra, which is responsible for managing all events about your civil life and to take in charge questions  about your status.
-          The Ofpra reconstitutes :
-              * Birth certificate,
-              * Marriage certificate,
-              * Death certicate.
-          For more information : https://www.ofpra.gouv.fr/fr/protection-etat-civil/qu-est-ce-que-la-protection
-          To make your demand, you must go on the website of the Ofpra at this address: https://www.ofpra.gouv.fr/fr/protection-etat-civil/qu-est-ce-que-la-protection
+        As you can’t contact authorities of your country of origin, this is France, through the Ofpra, which is responsible for managing all events about your civil life and to take in charge questions  about your status.
+        The Ofpra reconstitutes :
+            * Birth certificate,
+            * Marriage certificate,
+            * Death certicate.
+        For more information : https://www.ofpra.gouv.fr/fr/protection-etat-civil/qu-est-ce-que-la-protection
+        To make your demand, you must go on the website of the Ofpra at this address: https://www.ofpra.gouv.fr/fr/protection-etat-civil/qu-est-ce-que-la-protection
     other_documents:
-      name: "Driving Licence"
+      name: Driving Licence
       description: |
-          DRIVING LICENCE (https://www.service-public.fr/particuliers/vosdroits/F1460)
+        DRIVING LICENCE (https://www.service-public.fr/particuliers/vosdroits/F1460)
 
-          If you just arrived in France and you have non european driving licence, you must exchange it with a french driving licence to be allow to drive.
-          /!\You must do your demand of exchange in a delay of 1 year.
+        If you just arrived in France and you have non european driving licence, you must exchange it with a french driving licence to be allow to drive.
+        /!\You must do your demand of exchange in a delay of 1 year.
 
-          There is some conditions depending on your nationality.
-      instructions:
-          To obtain this exchange, you must address to the « prefecture de police de Paris ».
-
-          You have to fill and sign two CERFA forms (CERFA n° 14879*01 and CERFA n°14948*01). (/!\ If you print it, it must be in colour).
-          /!\ You must present the original copies with the photocopies of the documents demanded at the prefecture counter.
-          You will receive a receipt proving the submission of your file.
-          The delay to receive the french driving licence is variable. If you don’t have any response in 6 months, your driving licence exchange is refused. Hence, you must pass the exam of the French driving licence.
+        There is some conditions depending on your nationality.
+      instructions: |-
+        To obtain this exchange, you must address to the « prefecture de police de Paris ».
+        You have to fill and sign two CERFA forms (CERFA n° 14879*01 and CERFA n°14948*01). (/!\ If you print it, it must be in colour). /!\ You must present the original copies with the photocopies of the documents demanded at the prefecture counter. You will receive a receipt proving the submission of your file. The delay to receive the french driving licence is variable. If you don’t have any response in 6 months, your driving licence exchange is refused. Hence, you must pass the exam of the French driving licence.
     travel_documents:
-      name: "Travel documents"
+      name: Travel documents
       description: |
-          If you are a refugee and you want to travel out of France, you can obtain a travel document from the prefecture (whose you depend from).
-          If you are a refugee, you will receive a travel document valid 2 years.
-          If you have the subsidiary protection, you will receive an ID document and a travel document valid 1 year.
+        If you are a refugee and you want to travel out of France, you can obtain a travel document from the prefecture (whose you depend from).
+        If you are a refugee, you will receive a travel document valid 2 years.
+        If you have the subsidiary protection, you will receive an ID document and a travel document valid 1 year.
       instructions: |
-          You have to do your demand at the prefecture you depending from.
-          /!\ You can find the form for the travel document demand on the web site of the prefecture. Download and fil lit. You also must provide some documents.
-          /!\ The release of the travel document is paying. You must buy a tax stamp of 20 euros.
+        You have to do your demand at the prefecture you depending from.
+        /!\ You can find the form for the travel document demand on the web site of the prefecture. Download and fil lit. You also must provide some documents.
+        /!\ The release of the travel document is paying. You must buy a tax stamp of 20 euros.
 
-          WARNING: These travel documents don’t allow you to go to your country of origin. If you do, you will lose your status. In exceptional circumstances (death for example), you could ask the prefecture to obtain a safe-conduct for 3 month to go back to your country of origin.
-          /!\ Before you leave, you must be sure that your travel document is valid for the all length of your travel.
-
+        WARNING: These travel documents don’t allow you to go to your country of origin. If you do, you will lose your status. In exceptional circumstances (death for example), you could ask the prefecture to obtain a safe-conduct for 3 month to go back to your country of origin.
+        /!\ Before you leave, you must be sure that your travel document is valid for the all length of your travel.
     welfare_and_family_benefits:
-      name: "Welfare and Family Benefits"
+      name: Welfare and Family Benefits
       description: |
-          As a protected person, you can obtain various financial allowances by applying to the local family
-          allowance office – Caisse d’allocations familiales (CAF) and to other organisations in your place of
-          residence.
+        As a protected person, you can obtain various financial allowances by applying to the local family
+        allowance office – Caisse d’allocations familiales (CAF) and to other organisations in your place of
+        residence.
       instructions: |
-          If you meet the required conditions, you will therefore be able to apply for active solidarity allowance
-          (Revenu de solidarité active = RSA), family allowance, housing allowance, single‐parent allowance,caring for pre‐school child(ren) allowance, or again a disabled adult’s allowance.
-          Information on the rights to these social services can be obtained at the local family allowance offices
-          (CAF), based in one hundred sites throughout French territory.
-          To benefit from social services, you must go to the local family allowance office (CAF) or to a social action centre in your local area and fill in an income declaration (for the last two years). You will also find the corresponding form on the internet (www.caf.fr).
-          Moreover, you must have a bank account.
+        If you meet the required conditions, you will therefore be able to apply for active solidarity allowance
+        (Revenu de solidarité active = RSA), family allowance, housing allowance, single‐parent allowance,caring for pre‐school child(ren) allowance, or again a disabled adult’s allowance.
+        Information on the rights to these social services can be obtained at the local family allowance offices
+        (CAF), based in one hundred sites throughout French territory.
+        To benefit from social services, you must go to the local family allowance office (CAF) or to a social action centre in your local area and fill in an income declaration (for the last two years). You will also find the corresponding form on the internet (www.caf.fr).
+        Moreover, you must have a bank account.
       MAP: CAF
-
     rsa:
-      name: "RSA"
-      description: "The RSA is a revenu that you can perceive if you have low resources."
+      name: RSA
+      description: The RSA is a revenu that you can perceive if you have low resources.
       instructions: |
-          To receive the RSA you must have more than 25 years old and have obtained the refugee status or the subsidiary protection.
-          The amount will depend on your familial situation and your revenu during the last 3 months before your demand.
-          /!\ The RSA don’t replace others social allowances that you can obtain.
-          You must do your demand for the RSA on the web site of the CAF ((www.caf.fr).
+        To receive the RSA you must have more than 25 years old and have obtained the refugee status or the subsidiary protection.
+        The amount will depend on your familial situation and your revenu during the last 3 months before your demand.
+        /!\ The RSA don’t replace others social allowances that you can obtain.
+        You must do your demand for the RSA on the web site of the CAF ((www.caf.fr).
 
-          MAP : CAF + guichet unique
-
+        MAP : CAF + guichet unique
     entertainment:
-      name: "Entertainment"
-      description: ""
-
+      name: Entertainment
+      description: ''
     internet:
-      name: "Internet"
+      name: Internet
       description: |
-          You can connect to high-speed wifi, for free, with the free wifi service of the City of Paris. 260 sites across the city (parcs, gardens, city halls, libraries, museums) have free wifi hotspots.
+        You can connect to high-speed wifi, for free, with the free wifi service of the City of Paris. 260 sites across the city (parcs, gardens, city halls, libraries, museums) have free wifi hotspots.
       instructions: |
-          You can recognise a free wifi zone thanks to the “Paris Wi-Fi” logo.
-          How to proceed:
-              Select the PARIS_WI-FI (often following by a number).
-              Open you internet browser and enter any website address. You will be automatically redirected to the access portal. One on the home page of the service, you should fill the form and accept the User conditions by clicking the box. Then click on “ME CONNECTER” (‘Connect’ in English).
-              You may now use the internet.
-              /!\ Each session lasts up to 2 hours. You can renew your connection without condition by repeating this same process.
-              /!\ Wifi connexion is only available when the municipal sites with hotspots are open. The only exception are open air sites like the Champ de Mars, the centre d’accueil Kellerman (Kellerman welcome center) and the parvis de l’Hotel de Ville (City Hall square) are accessible 24/7.
-          You can also use specific applications for smartphones and tablets to locate the nearest hotspot:
-          For Android: “Wifi à Paris” app by Thomas Legat
-          For Windows Phone: “Paris OpenWifi” app by Thierry Verdier
-          For Iphone and Ipad: “Data Mapp Hotspot Wifi de Paris” app
-
+        You can recognise a free wifi zone thanks to the “Paris Wi-Fi” logo.
+        How to proceed:
+            Select the PARIS_WI-FI (often following by a number).
+            Open you internet browser and enter any website address. You will be automatically redirected to the access portal. One on the home page of the service, you should fill the form and accept the User conditions by clicking the box. Then click on “ME CONNECTER” (‘Connect’ in English).
+            You may now use the internet.
+            /!\ Each session lasts up to 2 hours. You can renew your connection without condition by repeating this same process.
+            /!\ Wifi connexion is only available when the municipal sites with hotspots are open. The only exception are open air sites like the Champ de Mars, the centre d’accueil Kellerman (Kellerman welcome center) and the parvis de l’Hotel de Ville (City Hall square) are accessible 24/7.
+        You can also use specific applications for smartphones and tablets to locate the nearest hotspot:
+        For Android: “Wifi à Paris” app by Thomas Legat
+        For Windows Phone: “Paris OpenWifi” app by Thierry Verdier
+        For Iphone and Ipad: “Data Mapp Hotspot Wifi de Paris” app
     restaurants:
-      name: "Restaurants"
-      description: ""
-      instructions: ""
+      name: Restaurants
+      description: ''
+      instructions: ''
     party:
-      name: "Party"
-      description: ""
-      instructions: ""
+      name: Party
+      description: ''
+      instructions: ''
     cultural_life:
-      name: "Cultural Life"
+      name: Cultural Life
       description: |
-          To know what to do in Paris
-          There is different websites gathering activities and events occurring in Paris:
-              * Time Out (www.timeout.fr/paris)
-              * www.quefaire.paris.fr/parisgratuit listing all free activities (with a translation in english)
-              * www.sortiraparis.com listing all cultural activities and available in 10 languages
-              * On www.meetmeout.fr, you can select activities by thema, often free, to meet people with the same passions (available in English, connection with facebook)
-      instructions:
+        To know what to do in Paris
+        There is different websites gathering activities and events occurring in Paris:
+            * Time Out (www.timeout.fr/paris)
+            * www.quefaire.paris.fr/parisgratuit listing all free activities (with a translation in english)
+            * www.sortiraparis.com listing all cultural activities and available in 10 languages
+            * On www.meetmeout.fr, you can select activities by thema, often free, to meet people with the same passions (available in English, connection with facebook)
+      instructions: ''
     sports:
-      name: "Sports"
-      description: ""
-      instructions: ""
+      name: Sports
+      description: ''
+      instructions: ''
     money_change:
-      name: "Money Change"
-      description: ""
-      instructions: ""
-    associations:
-      name: "Associations"
-      description: ""
-      instructions: ""
+      name: Money Change
+      description: ''
+      instructions: ''
     contacts:
-      name: "Contacts"
-      description: ""
-
+      name: Contacts
+      description: ''
     singa:
-      name: "Singa"
-      description:
-      instructions:
+      name: Singa
+      description: ''
+      instructions: ''
     ambassadors:
-      name: "Amassadors"
-      description:
-      instructions:
+      name: Amassadors
+      description: ''
+      instructions: ''
     associations:
-      name: "Associations"
-      description: |
-        You can contact associations to help you. Don't be afraid, they don't work with the police, you won't be arested.
+      name: Associations
+      description: "You can contact associations to help you. Don't be afraid, they\
+        \ don't work with the police, you won't be arested.\n"
       instructions: |
         -        Singa
         Singa is an association which supports the integration of refugees in France. The WAYA project reports to Singa.
@@ -631,5 +585,3 @@ en:
             - La Cour nationale du droit d’asile (CNDA)
             If the Ofpra don’t recognised you the refugee status, you can contest this decision. You will make an appeal in front of the CNDA. You will pass a new interview in front of 3 judges who will ask you questions about your story.
             Website : http://www.cnda.fr/
-
-
