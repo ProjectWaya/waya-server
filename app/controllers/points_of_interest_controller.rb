@@ -5,8 +5,13 @@ class PointsOfInterestController < ApplicationController
   # GET /points_of_interest.json
   def index
     included = params[:include].try(:split, ",")
-    @points_of_interest = PointOfInterest.all
-    # @points_of_interest.each {|poi| poi.locale = params[:locale] }
-    render json: @points_of_interest, include: included
+    filter = params[:filter] || {}
+    ids = PointOfInterest.select(:id)
+      .joins(:city, :country, :tags)
+      .where(cities: { id: filter[:city] })
+    tags_ids = filter[:tag].try(:split, ",")
+    ids = ids.where(tags: { key: tags_ids }) unless tags_ids.blank?
+    points_of_interest = PointOfInterest.eager_load(:city, :country, :tags).where(id: ids)
+    render json: points_of_interest, include: included
   end
 end
