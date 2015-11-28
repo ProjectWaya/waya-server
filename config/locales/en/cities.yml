@@ -12,8 +12,8 @@ en:
     Hamburg:
       name: "Hamburg"
       description: "some description"
-    Wein:
-      name: "Wein"
+    Wien:
+      name: "Wien"
       description: "some description"
     Linz:
       name: "Linz"
