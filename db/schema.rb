@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151126152532) do
+ActiveRecord::Schema.define(version: 20151128080246) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -64,7 +64,7 @@ ActiveRecord::Schema.define(version: 20151126152532) do
     t.integer  "parent_id"
   end
 
-  add_index "tags", ["key"], name: "index_tags_on_key", unique: true, using: :btree
+  add_index "tags", ["key", "parent_id"], name: "index_tags_on_key_and_parent_id", unique: true, using: :btree
 
   create_table "user_statuses", force: :cascade do |t|
     t.string   "key"
