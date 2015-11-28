@@ -1,7 +1,4 @@
 class City < ActiveRecord::Base
+  include TranslationHelper
   belongs_to :country
-
-  def name
-    "Paris"
-  end
 end
