@@ -4,22 +4,10 @@ class PointOfInterest < ActiveRecord::Base
   has_one :country, through: :city
 
   def name
-    " I am a POI"
+    "Name"
   end
 
   def description
-    " I am a POI"
-  end
-
-  def phones
-    Array(contact['phones'])
-  end
-
-  def mails
-    Array(contact['mails'])
-  end
-
-  def web_address
-    contact['web_address']
+    "Description"
   end
 end
