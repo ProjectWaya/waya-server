@@ -194,6 +194,9 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
+    pry-byebug (3.3.0)
+      byebug (~> 8.0)
+      pry (~> 0.10)
     puma (2.15.3)
     quiet_assets (1.1.0)
       railties (>= 3.1, < 5.0)
@@ -350,6 +353,7 @@ DEPENDENCIES
   launchy
   lingohub!
   pg
+  pry-byebug
   puma
   quiet_assets
   rails (= 4.2.5)

@@ -54,3 +54,4 @@ end
 gem "devise"
 gem "translation_center"
 
+gem "pry-byebug"

@@ -4,12 +4,18 @@ common_atts: &common_atts
     en:
       name: 'English'
       direction: 'ltr'
+    fr:
+      name: ''
+      direction: 'ltr'
+    de:
+      name: 'English'
+      direction: 'ltr'
     # ar:
     #   name: 'Arabic'
     #   direction: 'rtl'
 
   # yaml imported translations created by translator email, usually User email 
-  yaml_translator_identifier: 'bibekshrestha@gmail.com'
+  yaml_translator_identifier: 'coder@tc.com'
 
   # when import translation from yaml to db set it to accepted by default
   yaml2db_translations_accepted: true # default is false
@@ -17,10 +23,10 @@ common_atts: &common_atts
   # when admins add/edit translations they are considered accepted directly
   accept_admin_translations: true 
 
-  identifier_type: 'email' # Uncomment and change the identifier if your User model has no email attribute
-  translator_type: 'Admin' # Uncomment and change if you want to change the translator type
+  # identifier_type: 'email' # Uncomment and change the identifier if your User model has no email attribute
+  # translator_type: 'User' # Uncomment and change if you want to change the translator type
 
-development:
+development: &development
   enabled: true # default false
 
   # Keys inspector allowed values:
@@ -36,6 +42,9 @@ development:
   save_default_translation: true 
 
   <<: *common_atts
+
+test:
+  <<: *development
 
 production:
   enabled: true # default false
