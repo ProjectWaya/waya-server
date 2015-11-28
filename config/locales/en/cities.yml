@@ -1,8 +1,20 @@
 en:
   city:
-    city_key_1:
-      name: "some name"
+    Paris:
+      name: "Paris"
       description: "some description"
-    city_key_2:
-      name: "some name"
+    Montreuil:
+      name: "Montreuil"
+      description: "some description"
+    Berlin:
+      name: "Berlin"
+      description: "some description"
+    Hamburg:
+      name: "Hamburg"
+      description: "some description"
+    Wein:
+      name: "Wein"
+      description: "some description"
+    Linz:
+      name: "Linz"
       description: "some description"
