@@ -1,4 +1,6 @@
 class Tag < ActiveRecord::Base
+  include TranslationHelper
+
   has_and_belongs_to_many :points_of_interest
 
   has_many :sub_tags, class_name: "Tag", foreign_key: :parent_id
@@ -15,13 +17,5 @@ class Tag < ActiveRecord::Base
     else
       :sub_category
     end
-  end
-
-  def name
-    "Shelter"
-  end
-
-  def description
-    "I am a shelter"
   end
 end

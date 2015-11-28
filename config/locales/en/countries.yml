@@ -1,8 +1,11 @@
 en:
   country:
-    country_key_1:
-      name: "some name"
-      description: "some description"
-    country_key_2:
-      name: "some name"
-      description: "some description"
+    fr:
+      name: "France"
+      description: "some description about france"
+    de:
+      name: "Germany"
+      description: "some description about germany"
+    at:
+      name: "Austria"
+      description: "some description about austria"

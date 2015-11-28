@@ -60,6 +60,7 @@ GEM
     autoprefixer-rails (6.1.1)
       execjs
       json
+    awesome_print (1.6.1)
     better_errors (2.1.1)
       coderay (>= 1.0.0)
       erubis (>= 2.6.6)
@@ -165,6 +166,7 @@ GEM
     quiet_assets (1.1.0)
       railties (>= 3.1, < 5.0)
     rack (1.6.4)
+    rack-cors (0.4.0)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.5)
@@ -277,6 +279,7 @@ PLATFORMS
 
 DEPENDENCIES
   active_model_serializers!
+  awesome_print
   better_errors
   bootstrap-sass
   byebug
@@ -296,6 +299,7 @@ DEPENDENCIES
   pg
   puma
   quiet_assets
+  rack-cors
   rails (= 4.2.5)
   rails_12factor
   rails_layout
