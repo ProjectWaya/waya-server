@@ -1,20 +1,20 @@
 en:
   city:
-    Paris:
+    paris:
       name: "Paris"
       description: "some description"
-    Montreuil:
+    montreuil:
       name: "Montreuil"
       description: "some description"
-    Berlin:
+    berlin:
       name: "Berlin"
       description: "some description"
-    Hamburg:
+    hamburg:
       name: "Hamburg"
       description: "some description"
-    Wien:
+    wien:
       name: "Wien"
       description: "some description"
-    Linz:
+    linz:
       name: "Linz"
       description: "some description"
