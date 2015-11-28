@@ -1,8 +1,17 @@
 en:
   point_of_interest:
-    poi_key_1:
-      name: "some poi name"
-      description: "some poi description"
-    poi_key_2:
-      name: "some poi name"
-      description: "some poi description"
+    chu_baudricourt:
+      name: CHU Baudricourt
+      description: CHU (Centre d'hebergement d'Urgence)
+    paomie:
+      name: Permanence d'accueil et d'orientation des mineurs isolés étrangers
+      description: 'PAOMIE'
+    le_refuge_maison_des_ensembles:
+      name: Association d'aide aux jeunes victimes d’homophobie
+      description: ''
+    cimade_paris_luxembourg:
+      name: Cimade Paris - Luxembourg
+      description: ''
+    comede:
+      name: Comité médical pour les exilés (COMEDE)
+      description: ''
