@@ -5,10 +5,10 @@ common_atts: &common_atts
       name: 'English'
       direction: 'ltr'
     fr:
-      name: ''
+      name: 'French'
       direction: 'ltr'
     de:
-      name: 'English'
+      name: 'German'
       direction: 'ltr'
     # ar:
     #   name: 'Arabic'

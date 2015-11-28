@@ -87,3 +87,5 @@ Tag.create(key: 'ambassadors', parent_id: tag.id)
 Tag.create(key: 'associations', parent_id: tag.id)
 Tag.create(key: 'emergency', parent_id: tag.id)
 Tag.create(key: 'institutions', parent_id: tag.id)
+
+User.create(email: "bibekshrestha@gmail.com", password: "helloworld", password_confirmation: "helloworld")

@@ -7,7 +7,7 @@ class CreateTranslationCenterTranslationKeys < ActiveRecord::Migration
 
       t.string :en_status, default: 'untranslated'
 
-      t.string :ar_status, default: 'untranslated'
+      t.string :fr_status, default: 'untranslated'
 
       t.string :de_status, default: 'untranslated'
 
