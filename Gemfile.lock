@@ -60,6 +60,7 @@ GEM
     autoprefixer-rails (6.1.1)
       execjs
       json
+    awesome_print (1.6.1)
     better_errors (2.1.1)
       coderay (>= 1.0.0)
       erubis (>= 2.6.6)
@@ -277,6 +278,7 @@ PLATFORMS
 
 DEPENDENCIES
   active_model_serializers!
+  awesome_print
   better_errors
   bootstrap-sass
   byebug
