@@ -2320,7 +2320,6 @@ define('waya/routes/index', ['exports', 'ember'], function (exports, Ember) {
 
   exports['default'] = Ember['default'].Route.extend({
     redirect: function redirect() {
-      debugger;
       var userInfo = Ember['default'].$.cookie('userInfo');
       if (!userInfo) {
         this.replaceWith('home.onboarding', { lang: this.get('i18n.locale') });
