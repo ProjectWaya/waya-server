@@ -1,5 +1,34 @@
 en:
   tag:
+    woman:
+      name: Woman
+      description: ''
+      instructions: ''
+    minor:
+      name: Minor
+      description: |
+        If you have less than 18 years old and you are not with your parents, you are considerate as an unaccompanied foreign minor and you have specific rights.
+        You need to go to a association specialized in helping and protecting unaccompanied foreign minor (see the map below). This association will give you all the information and assist you during the process.
+        You will pass a first interview to evaluate your situation. Then you will be take in charge up to five days (called “mise à l’abri”). During this period, you will pass an other interview and a forensic exam to determine if you really are a isolated minor. You can ask for the help of an interpreter.
+        > If you are recognized as a isolated minor, you will be caring by the childhood social help (“aide sociale à l’enfance” (ASE)) et you can be placed in an other department in France. You will have rights about accommodation, education, healthcare, personal and administrative assistance.
+        > If you are not recognized as a minor, you can contest the decision in front of the judge for child. Ask help to an association.
+      instructions: ''
+    trans:
+      name: Trans
+      description: ''
+      instructions: ''
+    couple:
+      name: Couple
+      description: ''
+      instructions: ''
+    family:
+      name: Family
+      description: ''
+      instructions: ''
+    handicap:
+      name: Handicap
+      description: ''
+      instructions: ''
     shelter:
       name: Shelter
       description: ''
@@ -180,7 +209,7 @@ en:
         - Electric car (autolib)
       instructions: |
         - Autolib: only available for asylum seekers and refugees. A subscription is necessary, available for one day to one year. You need to be more than 18 and have a valid driving licence.
-    before_asylum_deman:
+    before_asylum_demand:
       name: Before asylum demand
       description: |
         If you wish to apply for asylum and become an asylum seeker please follow the instructions below. Meanwhile you still have rights:
