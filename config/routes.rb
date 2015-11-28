@@ -12,4 +12,6 @@ Rails.application.routes.draw do
       end
     end
   end
+
+  mount TranslationCenter::Engine => "/translation_center"
 end

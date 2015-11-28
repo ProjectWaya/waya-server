@@ -117,7 +117,7 @@ ActiveRecord::Schema.define(version: 20151128094125089721) do
     t.string   "name"
     t.integer  "category_id"
     t.datetime "last_accessed"
-    t.string   "ar_status",     default: "untranslated"
+    t.string   "en_status",     default: "untranslated"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
