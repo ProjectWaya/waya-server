@@ -5,11 +5,11 @@ class PointsOfInterestController < ApplicationController
   # GET /points_of_interest.json
   def index
     included = params[:include].try(:split, ",")
-    city_id = filter[:city]
-    if city_id
-      render json: fetch_pois(city_id), include: included
+    city_key = filter[:city]
+    if city_key
+      render json: fetch_pois(city_key), include: included
     else
-      render json: city_id_missing_error, adapter: :json
+      render json: city_key_missing_error, adapter: :json
     end
   end
 
@@ -19,20 +19,20 @@ class PointsOfInterestController < ApplicationController
     @filter ||= params[:filter] || {}
   end
 
-  def tags_ids
-    tags_ids = filter[:tag]
-    tags_ids = tags_ids.try(:split, ",") unless tags_ids.is_a?(Array)
+  def tags_keys
+    tags_keys = filter[:tag]
+    tags_keys = tags_keys.try(:split, ",") unless tags_keys.is_a?(Array)
   end
  
-  def fetch_pois(city_id)
+  def fetch_pois(city_key)
     ids = PointOfInterest.select(:id)
       .joins(:city, :country, :tags)
-      .where(cities: { id: city_id })
-    ids = ids.where(tags: { id: tags_ids }) unless tags_ids.blank?
+      .where(cities: { key: city_key })
+    ids = ids.where(tags: { key: tags_keys }) unless tags_keys.blank?
     PointOfInterest.eager_load(:city, :country, :tags).where(id: ids)
   end
 
-  def city_id_missing_error
+  def city_key_missing_error
     {
       errors: [
         {
