@@ -587,30 +587,29 @@ en:
         -        Aurore
         The association Aurore helps for the social and professional integration of persons in situation of exclusion or precariousness. It provides shelters, healthcare and support for integration.
         Website : http://aurore.asso.fr/
-
-        emergency:
-          name: "Emergency"
-          description: |
-            If you are in a situation of emergency, you can contact different persons.
-          instructions: |
-            SAMU (Urgent Medical Care Service) Contact the SAMU to obtain medical care for a life threatening emergency. You will be asked information, you can answer without risk. Do not hang up the phone without being asked to.  CALLED 15.
-            Police.  Contact the police to report an aggression or violence and to obtain immediate help. CALLED 17.
-            18 : Fire Services. Contact the fire service whenever people are in danger or in case of accident to obtain immediate intervention of the firefighters. CALLED 18.
-            Emergency number for deaf and hard of hearing. This number is reachable by SMS and by fax. CALLED 114.
-        institutions:
-          name: "Institutions"
-          description: |
-            During your asylum process, you will be in contact with different institutions.
-          instructions: |
-            -  Office français de l’immigration et de l’intégration (Ofii)
-            This is the state organism in charge of foreigners in France. Agents of the Ofii will be present at the one-step service at the prefecture to register your asylum demand and during all the processes (allowances, shelters).
-            Website : http://www.ofii.fr/
-            - One-step service in prefecture
-            The one-step service in prefecture is the place where you need to make your asylum demand. It is composed by agents of the prefecture and of the Ofii, gathering for your welcoming.
-            Seeing map with the different one-step service (“guichet unique”)
-            - L’Office français de protection des réfugiés et apatrides (Ofpra)
-            The Ofpra is the organism responsible for the exam of your asylum demand and which will decide to recognized you or not the refugee status.
-            Website : http://www.ofpra.gouv.fr/
-            - La Cour nationale du droit d’asile (CNDA)
-            If the Ofpra don’t recognised you the refugee status, you can contest this decision. You will make an appeal in front of the CNDA. You will pass a new interview in front of 3 judges who will ask you questions about your story.
-            Website : http://www.cnda.fr/
+    emergency:
+      name: "Emergency"
+      description: |
+        If you are in a situation of emergency, you can contact different persons.
+      instructions: |
+        SAMU (Urgent Medical Care Service) Contact the SAMU to obtain medical care for a life threatening emergency. You will be asked information, you can answer without risk. Do not hang up the phone without being asked to.  CALLED 15.
+        Police.  Contact the police to report an aggression or violence and to obtain immediate help. CALLED 17.
+        18 : Fire Services. Contact the fire service whenever people are in danger or in case of accident to obtain immediate intervention of the firefighters. CALLED 18.
+        Emergency number for deaf and hard of hearing. This number is reachable by SMS and by fax. CALLED 114.
+    institutions:
+      name: "Institutions"
+      description: |
+        During your asylum process, you will be in contact with different institutions.
+      instructions: |
+        -  Office français de l’immigration et de l’intégration (Ofii)
+        This is the state organism in charge of foreigners in France. Agents of the Ofii will be present at the one-step service at the prefecture to register your asylum demand and during all the processes (allowances, shelters).
+        Website : http://www.ofii.fr/
+        - One-step service in prefecture
+        The one-step service in prefecture is the place where you need to make your asylum demand. It is composed by agents of the prefecture and of the Ofii, gathering for your welcoming.
+        Seeing map with the different one-step service (“guichet unique”)
+        - L’Office français de protection des réfugiés et apatrides (Ofpra)
+        The Ofpra is the organism responsible for the exam of your asylum demand and which will decide to recognized you or not the refugee status.
+        Website : http://www.ofpra.gouv.fr/
+        - La Cour nationale du droit d’asile (CNDA)
+        If the Ofpra don’t recognised you the refugee status, you can contest this decision. You will make an appeal in front of the CNDA. You will pass a new interview in front of 3 judges who will ask you questions about your story.
+        Website : http://www.cnda.fr/
