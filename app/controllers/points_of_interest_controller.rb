@@ -10,7 +10,7 @@ class PointsOfInterestController < ApplicationController
       .joins(:city, :country, :tags)
       .where(cities: { id: filter[:city] })
     tags_ids = filter[:tag].try(:split, ",")
-    ids = ids.where(tags: { key: tags_ids }) unless tags_ids.blank?
+    ids = ids.where(tags: { id: tags_ids }) unless tags_ids.blank?
     points_of_interest = PointOfInterest.eager_load(:city, :country, :tags).where(id: ids)
     render json: points_of_interest, include: included
   end
