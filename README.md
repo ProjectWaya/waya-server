@@ -40,7 +40,7 @@ createuser -d -P waya
 Documentation and Support
 -------------------------
 
-https://github.com/magicpat/waya-server/wiki
+https://github.com/ProjectWaya/waya-server/wiki
 
 Issues
 -------------
