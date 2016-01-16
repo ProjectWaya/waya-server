@@ -18,8 +18,8 @@ development:
   encoding: unicode
   database: waya_development
   pool:     5
-  username: waya
-  password: waya
+  username: DavidPhilip
+  password: 
   template: template0
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -46,8 +46,8 @@ test:
   encoding: unicode
   database: waya_test
   pool:     5
-  username: waya
-  password: waya
+  username: DavidPhilip
+  password: 
   template: template0
 
 production:
