@@ -1,6 +1,4 @@
 Rails.application.routes.draw do
-  root to: 'visitors#index'
-
   scope "api" do
     scope ":locale" do
       scope "v1" do
@@ -11,4 +9,7 @@ Rails.application.routes.draw do
       end
     end
   end
+  
+  get '*path', to: 'ember#index', constraints: { format: 'html' }
+  get '/',     to: 'ember#index', constraints: { format: 'html' }
 end
