@@ -206,7 +206,7 @@ en:
       name: SEMNA 
       description: Service de l'aide sociale à l'enfance (ASE) orientation vers hébergement, assistance, santé, transport
     croix_rouge_centre_enfants_du_monde:  
-      name: Croix rouge : centre enfants du monde 
+      name: Croix rouge - centre enfants du monde
       description: Hébergement des mineurs isolés
     antenne_des_mineurs_du_barreau_de_paris:  
       name: Antenne des mineurs du Barreau de Paris 
@@ -368,10 +368,10 @@ en:
       description: the official place where you need to do your job process regarding your location
     pole_emploi_agence_chaumont:  
       name: Pôle emploi Agence Chaumont 
-      description: the official place where you need to do your job process regarding your location. Zones : 52000 ; 52110 ; 52120 ; 52140 ; 52150 ; 52210 ; 52240 ; 52310 ; 52320 ; 52330 ; 52340 ; 52370 ; 52700 ; 52800
+      description: the official place where you need to do your job process regarding your location. Zones - 52000 ; 52110 ; 52120 ; 52140 ; 52150 ; 52210 ; 52240 ; 52310 ; 52320 ; 52330 ; 52340 ; 52370 ; 52700 ; 52800
     pole_emploi_agence_chalons_en_champagne:  
       name: Pôle emploi Agence Chalons en champagne 
-      description: the official place where you need to do your job process regarding your location Zones : 51000 ;51130 ;51150 ; 51230 ; 51320 ; 51330 ; 51380 ; 51400 ;51460 ; 51470 ; 51510 ; 51520 ; 51600 ; 51800
+      description: the official place where you need to do your job process regarding your location Zones - 51000 ;51130 ;51150 ; 51230 ; 51320 ; 51330 ; 51380 ; 51400 ;51460 ; 51470 ; 51510 ; 51520 ; 51600 ; 51800
     pole_emploi_agence_autun: 
       name: Pôle emploi Agence Autun  
       description: the official place where you need to do your job process regarding your location
