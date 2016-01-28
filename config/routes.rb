@@ -12,4 +12,5 @@ Rails.application.routes.draw do
 
   get '*path', to: 'ember#index', constraints: { format: 'html' }
   get '/',     to: 'ember#index', constraints: { format: 'html' }
+  root 'ember#index'
 end
