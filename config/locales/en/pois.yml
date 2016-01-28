@@ -15,3 +15,411 @@ en:
     comede:
       name: Comité médical pour les exilés (COMEDE)
       description: ''
+    chu_george_sand:
+      name: CHU George Sand
+      description: CHU 
+    chu_crimee: 
+      name: CHU Crimée
+      description: CHU 
+    la_maison_coeur_de_femmes: 
+      name: La Maison coeur de femmes 
+    le_refuge_maison_des_ensembles: 
+      name: Le Refuge. Maison des Ensembles.
+      description: Association d'aide aux jeunes victimes d’homophobie
+    office_francais_de_protection_des_refugies_et_des_apatrides:  
+      name: Office français de protection des réfugiés et des apatrides 
+      description: Examen de la demande d'asile
+    cour_nationale_du_droit_dasile_cnda:  
+      name: Cour nationale du droit d’asile (CNDA)  
+      description: Examen de la demande d'asile en appel
+    office_francais_de_limmigration_et_de_lintegration_ofii:  
+      name: Office français de l’immigration et de l’intégration (OFII)   
+      description: Institution de l'Etat
+    actup:  
+      name: Act’up  
+      description: Association contre le Sida
+    amnesty_international_section_francaise:  
+      name: Amnesty International - section française   
+      description: Association pour les droits de l'Homme
+    association_primo_levi: 
+      name: Association Primo Lévi  
+      description: Association pour les victimes de torture
+    association_daccueil_aux_medecins_et_personnels_de_sante_refugies_en_france_apsr: 
+      name: Association d’accueil aux médecins et personnels de santé réfugiés en France (APSR) 
+    cimade_paris_luxembourg:  
+      name: CIMADE Paris – Luxembourg 
+
+    cimade_paris_batignolles: 
+      name: CIMADE - Paris  Batignolles 
+      description: Association d'aide aux étrangers
+    cimade_aulnay_sous_bois_93: 
+      name: CIMADE Aulnay sous Bois (93)  
+    cimade_montreuil_93:  
+      name: Cimade Montreuil (93)   
+    cimade_cergy_95:  
+      name: Cimade Cergy (95)   
+    comede: 
+      name: Comité médical pour les exilés (COMEDE)   
+    federation_des_associations_de_soutien_aux_travailleurs_immigres_fasti: 
+      name: Fédération des associations de soutien aux travailleurs immigrés (FASTI)  
+      description: Association d'aide aux étrangers
+    forum_refugies: 
+      name: Forum réfugiés  
+      description: Association d'aide aux étrangers, demandeurs d'asile et réfugiés
+    groupe_accueil_solidarite_gas:  
+      name: Groupe accueil solidarité (GAS) 
+      description: Association d'aide aux étrangers, demandeurs d'asile et réfugiés
+    groupe_dinformation_et_de_soutien_des_immigres_gisti: 
+      name: Groupe d’information et de soutien des immigrés (GISTI) 
+      description: Association d'aide aux étrangers, demandeurs d'asile et réfugiés
+    ligue_des_droits_de_lhomme_ldh: 
+      name: Ligue des droits de l’homme (LDH)   
+    mouvement_contre_le_racisme_et_pour_lamitie_entre_les_peuples_mrap: 
+      name: Mouvement contre le racisme et pour l’amitié entre les peuples (MRAP)   
+    secours_catholique: 
+      name: Secours catholique  
+    coallia:  
+      name: COALLIA 
+      description: association for help and social support for shelter and social promotion for vulnerable people.
+    pension_de_famille_alchimie_des_jours:  
+      name: Pension de famille « Alchimie des jours » 
+      description: Pension de familia
+    cpam_18eme: 
+      name: CPAM 18ème  
+      description: Organisme étatique pour les démarches de santé
+    cpam_19eme: 
+      name: CPAM 19ème  
+      description: Organisme étatique pour les démarches de santé
+    hopital_europeen_georges_pompidou:  
+      name: Hôpital européen Georges-Pompidou 
+      description: Hôpital (PASS)
+    hopital_robert_debre: 
+      name: Hôpital Robert-Debré  
+      description: Hôpital (PASS)
+    medecins_du_monde:  
+      name: Médecins du monde 
+    hopital_cochin_port_royal_tarnier:  
+      name: Hôpital Cochin - Port-Royal - Tarnier 
+      description: Consultations PASS accessibles pour adultes
+    guichet_unique_paris: 
+      name: Guichet unique Paris  
+      description: Guichet pour la demande d'asile 
+    guichet_unique_seine_et_marne:  
+      name: Guichet unique Seine-et-Marne 
+      description: Guichet pour la demande d'asile 
+    guichet_unique_yvelines:  
+      name: Guichet unique Yvelines 
+      description: Guichet pour la demande d'asile 
+    guichet_unique_essonne: 
+      name: Guichet unique Essonne  
+      description: Guichet pour la demande d'asile 
+    guichet_unique_hauts_de_seine:  
+      name: Guichet unique Hauts-de-Seine 
+      description: Guichet pour la demande d'asile 
+    guichet_unique_seine_saint_denis: 
+      name: Guichet unique Seine-Saint-Denis  
+      description: Guichet pour la demande d'asile 
+    guichet_unique_val_de_marne:  
+      name: Guichet unique Val-de-Marne 
+      description: Guichet pour la demande d'asile 
+    guichet_unique_val_doise: 
+      name: Guichet unique Val d’Oise   
+      description: Guichet pour la demande d'asile 
+    centre_pmi_de_la_chapelle:  
+      name: Centre PMI de la Chapelle 
+      description: Centre de protection maternelle et infantile. Consultations infantiles
+    parcours_dexil: 
+      name: Parcours d’exil 
+      description: Soigner toute personne victime d’atteintes aux droits humains
+    hopital_la_pitie_salpetriere: 
+      name: Hôpital la Pitié-Salpêtrière  
+      description: Soins dentiste
+    singa_france: 
+      name: SINGA France  
+      description: Intégration socio-économique des réfugiés statutaires
+    france_terre_dasile_service_dassistance_sociale_et_administrative_de_paris_sasa:  
+      name: France terre d'asile - Service d'assistance sociale et administrative de Paris (Sasa) 
+      description: Le Sasa a pour mission de suivre les demandeurs d’asile primo-arrivants souhaitant déposer une demande d’asile depuis leur arrivée jusqu’à leur entrée en Cada ou la fin de leur procédure.
+    cimade: 
+      name: Cimade  
+      description: Association militant pour le droit des étrangers
+    kiosque_france_terre_dasile_emmaus: 
+      name: Kiosque France terre d’asile/Emmaüs 
+      description: Point d'accueil et d'information
+    croix_rouge_francaise:  
+      name: Croix rouge française 
+      description: social support for migrants and vulnerable persons.
+    adoma:  
+      name: ADOMA 
+      description: social shelter adapted to people, alone or with family, who are in economical and integration difficulties and can not find a accommodation
+    aurore: 
+      name: Aurore  
+      description: help for the social and professional integration of persons in situation of exclusion or precariousness. It provides shelters, healthcare and support for integration.
+    resto_du_coeur_10_19eme:  
+      name: Resto du Coeur, 10/19ème  
+      description: Restauration gratuite
+    hopital_ambroise_pare:  
+      name: Hopital Ambroise Paré 
+      description: Consultation médicale gratuite
+    hopital_antoine_beclere:  
+      name: Hôpital Antoine-Béclère 
+    hopital_avicenne: 
+      name: Hôpital Avicenne  
+    hopital_bicetre:  
+      name: Hôpital Bicêtre 
+    hopital_bichat_claude_bernard:  
+      name: Hôpital Bichat - Claude-Bernard 
+    hopital_cochin_port_royal_tarnier:  
+      name: Hôpital Cochin - Port-Royal - Tarnier 
+    hopital_corentin_celton:  
+      name: Hôpital Corentin-Celton 
+    specialist_psy: 
+      name: Specialist (psy)  
+    hopital_europeen_georges_pompidou:  
+      name: Hôpital européen Georges-Pompidou 
+    hopital_hotel_dieu: 
+      name: Hopital Hôtel-Dieu  
+    hopital_jean_verdier: 
+      name: Hôpital Jean-Verdier  
+    hopitaux_lariboisiere_et_fernand_widal: 
+      name: Hôpitaux Lariboisière et Fernand-Widal  
+    hopital_pitie_salpetriere:  
+      name: Hôpital Pitié-Salpêtrière 
+    hopital_saint_antoine:  
+      name: Hôpital Saint-Antoine 
+    hopital_saint_louis:  
+      name: Hôpital Saint-Louis 
+    hopital_tenon:  
+      name: Hôpital Tenon 
+    cpam_17eme: 
+      name: CPAM 17eme  
+    centre_du_psychotrauma_de_linstitut_de_victimologie_de_paris: 
+      name: Centre du psychotrauma de l’Institut de victimologie de Paris.  
+      description: This center provides early and specific treatments to victims of traumatic events. 
+    ftda_permanence_daccueil_et_dorientation_des_mineurs_isoles_etrangers_paomie: 
+      name: FTDA - Permanence d'accueil et d'orientation des mineurs isolés étrangers - Paomie  
+      description: Welcoming for isolated minors
+    datmie_villa_saint_michel_amie_75:  
+      name: DATMIE-Villa Saint-Michel / Amie 75 
+      description: Welcoming for isolated minors
+    semna:  
+      name: SEMNA 
+      description: Service de l'aide sociale à l'enfance (ASE) orientation vers hébergement, assistance, santé, transport
+    croix_rouge_centre_enfants_du_monde:  
+      name: Croix rouge : centre enfants du monde 
+      description: Hébergement des mineurs isolés
+    antenne_des_mineurs_du_barreau_de_paris:  
+      name: Antenne des mineurs du Barreau de Paris 
+      description: Un avocat recevra les mineurs pour lesquels une prise en charge a été refusée. 
+    resto_du_coeur_faidherbe: 
+      name: Resto du Coeur Faidherbe  
+    resto_du_coeur_porte_de_vanves: 
+      name: Resto du Coeur Porte de Vanves  
+    resto_du_coeur_vaugirard: 
+      name: Resto du Coeur Vaugirard  
+    resto_du_coeur_la_chapelle: 
+      name: Resto du Coeur  La Chapelle 
+    resto_du_coeur_la_vilette:  
+      name: Resto du Coeur La Vilette 
+    resto_du_coeur_place_des_fetes: 
+      name: Resto du Coeur Place des Fêtes  
+    porte_ouverte_et_solidarite:  
+      name: Porte ouverte et solidarité 
+    marche_solidaire: 
+      name: Marché solidaire  
+    corot_entraide: 
+      name: Corot Entraide  
+    entraide_de_leglise_reformee: 
+      name: Entraide de l'Eglise réformée 
+    entraide_de_passy:  
+      name: Entraide de Passy 
+    amitie_vilette_epicerie_solidaire:  
+      name: Amitié Vilette Epicerie solidaire 
+    la_courte_echelle:  
+      name: La Courte Echelle 
+    magalimenil_menilmontant: 
+      name: Magaliménil Ménilmontant  
+    resto_du_coeur_pyramide:  
+      name: Resto du Coeur Pyramide 
+    restaurant_solidaire: 
+      name: Restaurant solidaire  
+    soupe_populaire:  
+      name: Soupe populaire   
+    restaurant_solidaire_europe:  
+      name: Restaurant solidaire Europe 
+    solidarite_soupe_trinite: 
+      name: Solidarité soupe Trinité  
+    repas_saint_lazare: 
+      name: Repas Saint-Lazare  
+    restaurant_vellefaux: 
+      name: Restaurant Vellefaux  
+    fondation_de_larmee_du_salut: 
+      name: Fondation de l'armée du salut 
+    mission_evangelique_parmi_les_sans_logis: 
+      name: Mission évangélique parmi les sans-logis  
+    repas_chaud_gare_de_lest: 
+      name: Repas Chaud Gare de l'Est 
+    soeurs_missionnaires_de_la_charite: 
+      name: Soeurs missionnaires de la charité  
+    chanzy_repas_solidaire: 
+      name: Chanzy repas solidaire  
+    repas_chaud:  
+      name: Repas Chaud 
+    halte_jeunes_16_25_association_aurore:  
+      name: Halte jeunes 16-25 association aurore 
+    association_des_oeuvres_de_la_mie_de_pain:  
+      name: Association des oeuvres de la mie de pain 
+    restos_du_coeur:  
+      name: Restos du coeur 
+    repas_salpetriere:  
+      name: Repas Salpétrière 
+    restaurant_solidaire_artiste: 
+      name: Restaurant solidaire Artiste  
+    repas_denfert_rochereau:  
+      name: Repas Denfert Rochereau 
+    equipes_saint_vincent_les_perichaux:  
+      name: Equipes Saint-Vincent les Périchaux 
+    equipe_saint_vincent_saint_christophe_de_javel: 
+      name: Equipe Saint vincent Saint christophe de javel  
+    les_epinettes:  
+      name: Les Epinettes 
+    solidarite_chretiene_des_batignolles: 
+      name: Solidarité chrétiene des Batignolles  
+    centre_israelite_de_montmartre: 
+      name: Centre israélite de montmartre  
+    une_chorba_pour_tous: 
+      name: Une chorba pour tous  
+    reservoir:  
+      name: Réservoir 
+    caf_centre_de_gestion_de_finlay:  
+      name: CAF Centre de gestion de Finlay 
+      description: the official place where you need to do your allowance process regarding your location
+    caf_centre_de_gestion_de_la_chapelle: 
+      name: CAF Centre de gestion de la Chapelle  
+      description: the official place where you need to do your allowance process regarding your location
+    caf_centre_de_gestion_de_laumiere:  
+      name: CAF Centre de gestion de Laumière   
+      description: the official place where you need to do your allowance process regarding your location
+    caf_centre_de_gestion_de_nationale: 
+      name: CAF Centre de gestion de Nationale  
+      description: the official place where you need to do your allowance process regarding your location
+    caf_centre_social_belliard: 
+      name: CAF Centre social Belliard  
+      description: the official place where you need to do your allowance process regarding your location
+    caf_centre_social_charenton:  
+      name: CAF Centre social Charenton   
+      description: the official place where you need to do your allowance process regarding your location
+    caf_centre_social_chevaleret: 
+      name: CAF Centre social Chevaleret  
+      description: the official place where you need to do your allowance process regarding your location
+    caf_centre_social_dannam: 
+      name: CAF Centre social d’Annam 
+      description: the official place where you need to do your allowance process regarding your location
+    caf_centre_social_de_tanger:  
+      name: CAF Centre social de Tanger 
+      description: the official place where you need to do your allowance process regarding your location
+    caf_centre_social_toussaregaud: 
+      name: CAF Centre social Toussarégaud  
+      description: the official place where you need to do your allowance process regarding your location
+    pole_emploi_agence_paris_1_2_3_4eme_paul_lelong:  
+      name: Pôle emploi Agence Paris 1, 2, 3, 4ème paul lelong  
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_6_et_14eme_jean_moulin:  
+      name: Pôle emploi Agence Paris 6 et 14ème jean moulin 
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_5_et_13eme_daviel: 
+      name: Pôle emploi Agence Paris 5 et 13ème daviel  
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_20eme_vitruve: 
+      name: Pôle emploi Agence Paris 20ème vitruve  
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_18eme_ney: 
+      name: Pôle emploi Agence Paris 18ème ney  
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_19eme_armand_carrel: 
+      name: Pôle emploi Agence Paris 19ème armand carrel  
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_12eme_diderot: 
+      name: Pôle emploi Agence Paris 12ème diderot  
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_7_8_9eme_st_petersbourg: 
+      name: Pôle emploi Agence Paris 7, 8, 9ème st petersbourg  
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_16_et_17eme_cardinet:  
+      name: Pôle emploi Agence Paris 16 et 17ème cardinet 
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_20eme_piat:  
+      name: Pôle emploi Agence Paris 20ème piat 
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_11eme_beaumarchais:  
+      name: Pôle emploi Agence Paris 11ème beaumarchais 
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_19eme_laumiere:  
+      name: Pôle emploi Agence Paris 19ème laumière 
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_15eme_brancion:  
+      name: Pôle emploi Agence Paris 15ème brancion 
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_18eme_genevoix:  
+      name: Pôle emploi Agence Paris 18ème genevoix 
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_paris_10eme_saint_louis: 
+      name: Pôle emploi Agence Paris 10ème saint louis  
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_chaumont:  
+      name: Pôle emploi Agence Chaumont 
+      description: the official place where you need to do your job process regarding your location. Zones : 52000 ; 52110 ; 52120 ; 52140 ; 52150 ; 52210 ; 52240 ; 52310 ; 52320 ; 52330 ; 52340 ; 52370 ; 52700 ; 52800
+    pole_emploi_agence_chalons_en_champagne:  
+      name: Pôle emploi Agence Chalons en champagne 
+      description: the official place where you need to do your job process regarding your location Zones : 51000 ;51130 ;51150 ; 51230 ; 51320 ; 51330 ; 51380 ; 51400 ;51460 ; 51470 ; 51510 ; 51520 ; 51600 ; 51800
+    pole_emploi_agence_autun: 
+      name: Pôle emploi Agence Autun  
+      description: the official place where you need to do your job process regarding your location
+    pole_emploi_agence_berck: 
+      name: Pôle emploi Agence Berck  
+      description: the official place where you need to do your job process regarding your location
+    universite_paris_1_pantheon_sorbonne: 
+      name: UNIVERSITÉ PARIS 1 PANTHÉON SORBONNE  
+      description: Special welcoming program for refugees and Asylum seekers in the universities of Paris
+    university_paris_10_nanterre_la_defense:  
+      name: UNIVERSITY PARIS 10 NANTERRE LA DEFENSE 
+      description: Special welcoming program for refugees and Asylum seekers in the universities of Paris
+    university_paris_2_pantheon_assas:  
+      name: UNIVERSITY PARIS 2 PANTHÉON ASSAS 
+      description: University registration in Paris (normal procedure)
+    university_paris_3_sorbonne_nouvelle: 
+      name: UNIVERSITY PARIS 3 SORBONNE NOUVELLE  
+      description: University registration in Paris (normal procedure)
+    university_paris_4_paris_sorbonne:  
+      name: UNIVERSITY PARIS 4 PARIS SORBONNE 
+      description: University registration in Paris (normal procedure)
+    university_paris_5_paris_descartes: 
+      name: UNIVERSITY PARIS 5 PARIS DESCARTES  
+      description: University registration in Paris (normal procedure)
+    univertity_paris_6_pierre_et_marie_curie: 
+      name: UNIVERTITY PARIS 6 PIERRE ET MARIE CURIE  
+      description: University registration in Paris (normal procedure)
+    university_paris_7_paris_diderot: 
+      name: UNIVERSITY PARIS 7 PARIS DIDEROT  
+      description: University registration in Paris (normal procedure)
+    university_paris_8_saint_denis: 
+      name: UNIVERSITY PARIS 8 SAINT-DENIS  
+      description: University registration in Paris (normal procedure)
+    university_paris_9_dauphine:  
+      name: UNIVERSITY PARIS 9 DAUPHINE 
+      description: University registration in Paris (normal procedure)
+    university_paris_11_paris_sud:  
+      name: UNIVERSITY PARIS 11 PARIS SUD 
+      description: University registration in Paris (normal procedure)
+    university_paris_12_val_de_marne: 
+      name: UNIVERSITY PARIS 12 VAL DE MARNE  
+      description: University registration in Paris (normal procedure)
+    university_paris_13_villeteneuse: 
+      name: UNIVERSITY PARIS 13 VILLETENEUSE  
+      description: University registration in Paris (normal procedure)
+    university_paris_est_marne_la_vallee: 
+      name: UNIVERSITY PARIS-EST MARNE-LA-VALLÉE  
+      description: University registration in Paris (normal procedure)
+        
+    
+
