@@ -9,7 +9,7 @@ Rails.application.routes.draw do
       end
     end
   end
-  
+
   get '*path', to: 'ember#index', constraints: { format: 'html' }
   get '/',     to: 'ember#index', constraints: { format: 'html' }
 end
